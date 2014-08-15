@@ -1,0 +1,327 @@
+1.	1975	Church GM	Kim SH
+2.	1977	Church GM	Kim SH
+3.	1977	Church GM	Kim SH
+4.	1977	Church GM	Kim SH
+5.	1978	Church GM	Kim SH
+7.	1979	Church GM	Gilbert W
+8.	1980	Church GM	Gilbert W
+9.	1984	Church GM	Gilbert W
+10.	1985	Church GM	Gilbert W
+11.	1985	Church GM	Gilbert W
+12.	1985	Church GM	Gilbert W
+13.	1988	Church GM	Kieffer-Higgins S
+13a	1990	Link AJ	Church, GM
+14.	1991	Sikorav JL	Church GM
+14a	1991	Link AJ	Church, GM
+15.	1992	Church GM	Mintz L 
+15a	1991	Link AJ	Church, GM
+16.	1992	Wang M	Church GM
+16a	1991	Link AJ	Church, GM
+17a	1992	Link AJ	Church, GM
+18.	1993	Richterich P	Church GM
+18a	1992	Link AJ	Church, GM
+19.	1993	Rubenfield M	Kieffer-Higgins S	Church GM
+19a	1992	Rubenfield MJ	Adams CP	Church, GM
+20.	1994	Church GM	Gryan G	Lakey N	Kieffer-Higgins S	Mintz L	Temple M	Rubenfield M	Jaehn L	Ghazizadeh H	Robison K	Richterich P
+21.	1994	Richterich P	Lakey N	Gryan G	Jaehn L	Mintz L	Robison K	Church GM 
+22.	1994	Robison K	Church GM	Gilbert W
+23.	1994	Robison K	Church GM
+25.	1996	Robison K	Church GM	Gilbert W
+26.	1996	Goodman HM	Keifer-Higgins S	Rubenfield M	Church GM
+28.	1997	Richterich P	Rubenfield M	Robison K	Richterich L	Johnson J	Church GM
+29.	1997	Wang P	O'Keeffe T	Abushamaa H	Kutney L	Church GM
+30.	1997	Link AJ	Robison K	Church GM
+31.	1997	Link AJ	Phillips D	Church GM
+32.	1997	Wang P	Church GM
+35.	1999	Chen T	Church GM
+36.	1998	Roth FP	Hughes JD	Estep PW	Church GM
+37.	1998	Tavazoie S	Church GM
+38.	1998	Robison KR	McGuire AM	Church GM
+39.	1999	Johnson JM	Church GM
+40.	1999	McGuire AM	Church GM
+41.	1999	Bulyk ML	Church GM
+42.	1999	Tavazoie S	Hughes JD	Campbell MJ	Cho RJ	Church GM
+43.	1999	Mitra R	Church GM
+44.	2000	Aach J	Rindone W	Church GM
+45.	2000	Hughes JD	Estep PW	Tavazoie S	Church GM
+46.	2000	Cheng Y	Church GM
+47.	2000	Church GM	Park J
+48.	2000	Johnson JM	Church GM
+49.	2000	Chen T	Tepel M	Rush J	Church GM
+50.	2000	McGuire AM	Hughes JD	Church GM
+51.	2000	Estep P	Church GM
+52.	2000	Estep PW	Church GM
+53.	2000	Mcguire AM	Church GM
+54.	2000	Steffen MA	Church GM
+55.	2000	Cohen BA	Mitra RD	Hughes JD	Church GM
+56.	2000	Hoehe MR	Church GM
+57.	2001	Edwards JS	Church GM
+58.	2000	Selinger D	Cheung K	Church GM
+59.	2001	Aach J	Bulyk ML	Church GM	Comander J	Derti A	Shendure J
+60.	2001	Bulyk ML	Choo Y	Huang X	Church GM
+61.	2001	Aach J	Church GM
+62.	2001	Chen T	Jaffe JD	Church GM
+63.	2001	Pilpel Y	Sudarsanam P	Church GM
+65.	2001	Badarinarayana V	Estep PW	Shendure J	Edwards J	Tavazoie S	Lam F	Church GM
+65a	2001	Aach J	Church, GM
+66.	2002	Shendure J	Church GM
+67.	2002	Bulyk ML	Johnson PLF	Church GM
+68.	2002	Zhu Z	Pilpel Y	Church GM
+69.	2002	Bulyk ML	Church GM
+70.	2002	Cohen B	Pilpel Y	Mitra R	Church GM
+71.	2002	Dudley AM	Aach J	Steffen MA	Church GM
+72.	2002	Church GM	Edwards JS
+73.	2002	Grad Y	Church GM
+74.	2002	Shendure J	Church GM
+75.	2002	Wright M	Church GM
+76.	2002	Masuda N	Church GM
+77.	2002	Steffen M	Petti A	D'haeseleer P	Aach J	Church GM
+78.	2002	Sudarsanam P	Pilpel Y	Church GM
+79.	2002	Segre D	Vitkup D	Church GM
+80.	2002	Cheung KJ	Badarinarayana V	Selinger D	Janse D	Church GM
+82.	2002	Wright M	Segre D	Church G
+83.	2003	Selinger D	Wright M	Church GM
+84.	2003	Selinger DW	Cheung KJ	Church GM
+85.	2003	Masuda N	Church GM
+86.	2003	Choe SE	Church GM
+87.	2003	Mitra RD	Butty V	Shendure J	Church GM
+88.	2003	Mitra RD	Shendure J	Church GM
+90.	2003	Mitra RD	Church GM	Edwards JS
+91.	2003	Grad Y	Aach J	Church GM
+92.	2003	Dudley AM	Janse DM	Church GM	Roth FP
+93.	2003	Zhu J	Shendure J	Mitra RD	Church GM
+94.	2003	Segre D	Zucker J	Katz J	Lin X	D'haeseleer P	Rindone W	Karchenko P	Nguyen D	Wright M	Church GM
+95.	2003	Vitkup D	Church GM
+96.	2004	Jaffe JD	Church GM
+97.	2004	Aach J	Church GM
+98.	2004	Church GM	Marc P
+99.	2004	Gao Y	Church GM
+100.	2004	Grad Y	Church GM
+101.	2004	Grad YH	Roth FP	Church GM
+102.	2004	Janse DM	Church GM
+103.	2004	Kharchenko P	Church GM	Vitkup D
+104.	2004	Bulyk ML	McGuire AM	Masuda N	Church GM
+106.	2004	Mitra RD	Church GM	Edwards JS
+107.	2004	Shendure J	Mitra R	Varma C	Church GM
+108.	2004	Jaffe JD	Church GM
+109.	2004	Reppas N	Church G
+110.	2004	D'haeseleer P	Church GM
+112a	2005	Pe'er D	Church, GM
+113.	2005	Aach J	Church GM
+113a	2005	Pe'er D	Church, GM
+116.	2004	Zhu Z	Church G
+117.	2004	Segre D	Church GM
+118.	2004	Tian J	Church GM
+119.	2005	Church GM	Zhu Z
+120.	2005	Choe SE	Church GM
+121.	2005	Dudley A	Janse D	Church GM
+122.	2005	Petti A	Church GM
+123.	2005	Zhu Z	Shendure J	Church GM
+124.	2005	Kharchenko P	Vitkup D	Church GM
+125.	2005	Church GM	Steffen MA
+126.	2005	de Magalhaes JP	Church GM
+127.	2005	Jaffe JD	Church GM
+128.	2005	Gao Y	Church G
+129.	2005	Reppas NB	Church GM
+130.	2005	Shendure J	Porreca GJ	Reppas NB	Lin X	McCutcheon JP	Rosenbaum AM	Wang MD	Zhang K	Mitra RD	Church GM
+131.	2006	Leptos KC	Church GM
+132.	2006	deMagalhaes J	Church GM
+133.	2006	Choe SE	Church GM
+135.	2006	Kharchenko P	Vitkup D	Church GM
+136.	2006	Zhang K	Zhu J	Shendure J	Porreca GJ	Aach JD	Mitra RD	Church GM
+138.	2006	Zhang K	Reppas NB	Church GM
+140.	2006	Zhu Z	Church GM
+141.	2006	Pe'er D	Dudley AM	Church GM
+142.	2006	Jaffe J	Leptos K	Church GM
+143.	2006	Shendure J	Porreca G	Church G
+144.	2006	Derti A	Roth FP	Church GM
+145.	2006	Tolonen AC	Aach J	Church GM
+146.	2006	Reppas NB	Church GM
+148a	2006	Nguyen DH	D'haeseleer P. 	Church, GM
+149.	2006	Church GM	Shendure J	Porreca G
+151.	2006	Porreca GJ	Shendure J	Church GM
+153.	2007	Strong M	Church G
+154.	2007	Magalhaes JP	Church GM
+155.	2007	de Magalhaes JP	Church GM
+156.	2007	Aach J	Church GM
+157.	2007	Porreca GJ	Church GM
+159.	2007	Jaffe JD	Church GM
+160.	2007	Wright MA	Kharchenko P	Church GM	Segre D
+161.	2007	Zhu J	Church G
+162.	2007	Church GM	Zhu J
+163.	2007	de Magalhaes JP	Church GM
+163a	2007	Douglas SM	Church, GM
+164.	2007	Porreca GJ	Zhang K	Li JB	Xie B	Austin D	Vassallo SL	LeProust EM	Peck BJ	Emig CJ	Dahl F	Gao Y	Church GM	Shendure J
+166.	2007	Zucker J	Church GM
+167.	2008	Bang D	Church GM
+168.	2008	Lunshof JE	Vorhaus DB	Church GM
+169.	2008	Dantas G	Sommer MO	Oluwasegun RD	Church GM
+170.	2008	Church GM	Porreca GJ	Terry RC
+171.	2008	Vigneault F	Sismour AM	Church GM
+172.	2008	Forest CR	Rosenbaum AM	Church GM
+173.	2008	Church GM	Gilbert W
+174.	2008	Dudley AM	Janse DM	Wong K	Church GM	Segre D
+175.	2008	Lunshof JE	Church GM
+176.	2008	Schwartz D	Chou MF	Church GM
+176a	2008	Aach J	Church, GM
+177.	2008	Shendure JA	Porreca GJ	Church GM
+177a	2008	Derti A	Schwartz D	Chou MF	Church, GM
+178.	2008	Zaranek AW	Clegg T	Vandewege W	Church GM
+180a	2009	Lohr A	Zaranek AW	Church, GM
+181.	2009	de Magalhaes JP	Church GM
+182.	2004	Reppas N	Lin X	Church GM
+183.	2009	Levanon EY	Church GM
+184.	2009	Ball MP	Li JB	Gao Y	Lee J	Church GM
+185.	2009	Carr P	Church GM
+186.	2009	Reppas NB	Lin X	Shendure J	Porreca GJ	Church GM
+187.	2009	Douglas SM	Church GM
+188.	2009	Li JB	Gao Y	Aach J	Zhang K	Ahlford A	Yoon J-K	Rosenbaum AM	Zaranek AW	Church GM
+189.	2009	de Magalhaes JP	Curado J	Church GM
+190.	2009	Strong M	Church GM
+191.	2009	Lee J	Gao Y	Li JB	Zhang K	Church GM
+192.	2009	Zhang K	Li JB	Gao Y	Lee JH	Aach J	Church GM
+194.	2009	Rockwell G	Guido NJ	Church GM
+195.	2009	Tolonen A	Chilaka AC	Church GM
+197.	2010	Zaranek AW	Levanon EY	Clegg T	Church GM
+198.	2010	Sommer MOA	Church GM	Dantas G
+199.	2010	Lee JH	Church GM
+201.	2010	Schwartz D	Chou M	Church G
+201a	2011	Ball MP	Zhang K	Gao Y	Church, GM
+202.	2010	Lunshof JE	Bobe J	Aach J	Angrist M	Thakuria JV	Vorhaus DB	Hoehe MR	Church GM
+203a	2009	Douglas SM	Church, GM
+204.	2009	Zaranek AW	Thakuria J	Wu X	Church GM
+205.	2009	Li JB	Levanon EY	Yoon J-K	Aach J	Zhang K	Gao Y	Church GM
+205a	2009	Douglas SM	Church, GM
+206.	2009	Wang HH	Isaacs FJ	Carr PA	Sun ZZ	Xu G	Forest CR	Church GM
+208.	2009	Sommer MO	Dantas G	Church GM
+209.	2009	Thakuria JV	Wu X	Zaranek AW	Church GM
+212.	2010	Church G	Thakuria J
+214.	2010	Sommer MO	Church GM	Dantas G
+215.	2010	Chou MF	Thakuria JV	Rosenbaum AM	Zaranek AW	Church GM
+216.	2011	Umbarger MA	Wright MA	Porreca GJ	Church GM
+217.	2010	Vigneault F	Church GM
+218.	2010	Mosberg JA	Lajoie MJ	Church GM
+219.	2010	Vigneault F	Church G
+221.	2010	Kosuri S	Eroshenko N	Li JB	Church GM
+222.	2010	Tolonen AC	Chilaka AC	Aach J	Church GM
+223.	2010	Strong M	Guido NJ	Church GM
+224.	2010	Schwartz D	Church GM
+225.	2013	Strong M	Church GM
+226a	2010	Bitsoi LL	Church, GM
+227.	2011	Isaacs FJ	Carr PA	Wang HH	Lajoie MJ	Kraal L	Tolonen A	Gianoulis T	Goodman D	Reppas NB	Bang D	Jewett MC	Church GM
+229.	2011	Laserson U	Church GM
+229a	2011	Lee JH	Church, GM
+230.	2011	Zhang F	Cong L	Kosuri S	Church GM
+231.	2011	Church GM	Levanon EY
+233.	2011	Wang HH	Xu G	Vonner A	Church GM
+234.	2011	Thakuria JV	Ball MP	Zaranek AW	Church GM
+235.	2011	Wang HH	Church GM
+238.	2011	Vigneault F	Church GM
+240.	2011	de Magalhaes JP	Church GM
+242.	2011	Church GM	Batada NN
+243.	2011	Shendure JA	Porreca GJ	Church GM
+244.	2011	Shendure JA	Porreca GJ	Church GM
+245.	2012	Gianoulis TA	Sismour AM	Church GM
+246.	2012	Douglas SM	Bachelet I	Church GM
+247.	2012	Thakuria JV	Zaranek AW	Church GM
+248.	2012	Wang HH	Huang PY	Marblestone A	Li J	Jewett MC	Church GM
+249.	2012	Wang HH	Kim H	Cong L	Bang D	Church GM
+250.	2012	Robasky K	Zaranek AW	Lee JH	Ball MP	Church GM
+251.	2012	Ball MP*	Thakuria JV*	Zaranek AW*	Clegg T	Rosenbaum AM	Wu X	Angrist M	Bhak J	Bobe J	Chou MF	Douglas SM	Estep P	Lee J	Lunshof J	Raman AM	Vandewege W	Vorhaus D	Yang JL	Yang L	Aach J	Li JB	Zhang K	Church GM
+254.	2012	Carr PA	Wang HH	Isaacs FJ	Xu G	Church GM
+255.	2013	Jewett MC	Church GM
+256.	2014	Laserson U	Vigneault F	Church, GM
+257.	2012	Vigneault F	Church G
+258.	2012	Vigneault F	Church G
+258a	2012	Kosuri S	Sismour M	Church, GM
+259.	2012	Eroshenko N	Kosuri S	Marblestone AH	Conway N	Church GM
+260.	2012	Bang D	Church GM
+261.	2012	Lajoie MJ	Gregg CJ	Mosberg JA	Washington GC	Church GM
+262.	2012	Mosberg Ja	Gregg CJ	Lajoie MJ	Wang HH	Church GM
+263.	2012	Chou MF	Church GM	Schwartz D
+264.	2014	Gu L	Li C	Aach J	Church GM
+265.	2013	Laserson U	Church GM
+266.	2013	Laserson U	Church G
+266a	2012	Cong L	Zhang F	Church, GM
+267.	2012	Church GM	Gao Y	Kosuri S
+267a	2012	Cong L	Zhang F	Church, GM
+271.	2012	Briggs AW	Rios X	Chari R	Yang L	Zhang F	Mali P	Church GM.
+272.	2012	Levner D	Church GM
+273.	2012	Rios X	Briggs AW	Church GM
+274.	2012	Zamft B	Marblestone A	Church GM
+274a	2012	Li JB	Williams BR	Church, GM
+275.	2012	Li C	Levner D	Church GM
+275a	2013	Cong L	Church, GM
+276.	2013	Mali P	Yang L	Esvelt KM	Aach J	Guell M	DiCarlo JE	Norville J	Church GM
+277.	2012	de Magalhaes JP	Church GM
+278.	2013	Yang L	Guell M	Byrne S	Yang J	Mali P	Aach J	Briggs A	Rios X	Huang PY	Church GM
+279.	2013	Mali P	John Aach J	Lee J	Levner D	Nip L	Church GM
+280.	2013	Lajoie MJ	Goodman DB	Mercer JA	Wang HH	Mosberg JA	Rohland N	Church GM	Isaacs FI
+281.	2013	Lajoie MJ	Kosuri S	Mosberg JA	Gregg CJ	Zhang D	Church GM
+281a	2012	Esvelt KM	Wang HH	Church, GM
+283.	2013	Wang HH	Mee MT	Church GM
+283a	2012	Mee MT	Wang HH	Church, GM
+285.	2013	Rockwell G	Guido NJ	Church GM
+286.	2013	DiCarlo J	Norville J	Mali P	Rios X	Aach J	Church G
+287.	2013	Kosuri S	Goodman DB	Church GM
+288.	2013	Payne A	Marblestone A	Church G
+291.	2013	Mali P	Aach J	Stranges PB	Esvelt KM	Moosburner M	Kosuri S	Yang L	Church GM
+292.	2013	Yang L	Mali P	Kim-Kiselak C	Church G
+293.	2013	Umbarger MA	Church GM	Porreca GJ
+294.	2013	Tolonen A	Church G
+295.	2013	Yaung SJ	Church GM	Wang HH
+296.	2013	Friedland AE	Esvelt KM	Church GM
+297.	2013	Cong L	Church GM	Zhang FM
+298.	2013	Zamft B	Marblestone A	Church GM
+298a	2013	Lunshof JE	Ball MP	Church, GM
+299.	2013	Esvelt KM	Mali P	Braff J	Moosburner M	Yaung S	Church GM
+300.	2013	Marblestone AH	Zamft BM	Maguire YG	Stranges B	Kalhor R	Dalrymple DA	Church GM
+301.	2013	Busskamp V	Lewis NE	Ng AHM	Shipman S	Byrne SS	Church GM
+302.	2013	Mali P	Esvelt KM	Church GM
+303.	2013	Vigneault F	Church GM
+304.	2013	Goodman DB	Church GM	Kosuri S
+305.	2013	Norville JE	Aach J	Church GM
+306.	2013	DiCarlo JE	Conley A	Wang HH	Church GM
+307.	2014	Lee J	Daugharthy E	Scheiman J	Kalhor R	Terry R	Yang JL	Li C	Marblestone A	Turczyk BM	Conway N	Inverso S	Levner D	Mali P	Rios X	Jeanty SSF	Aach J	Church GM
+308.	2013	Lee J	Robasky K	Susan Byrne S	Lucchesi C	Aach J	Church G
+309.	2013	Marblestone AH	Zamft BM	Maguire YG	Stranges B	Kalhor R	Dalrymple DA	Church GM
+310.	2013	Li JB	Church GM
+312.	2013	Friedland AE	Church GM
+313.	2013	Lajoie MJ	Church GM
+314.	2014	Gregg CJ	Lajoie MJ	Napolitano MG	Mosberg JA	Goodman DB	Aach J	Isaacs FJ	Church GM
+315.	2013	Eroshenko N	Church GM
+316.	2014	Yang L	Church GM
+317.	2014	Church GM	Marblestone A	Kalhor R
+318.	2013	Chou MF	Church GM	Schwartz D
+321.	2013	Laserson U*	Vigneault F	Church GM
+322.	2013	Marblestone AH	Daugharthy E	Kalhor R	Shipman S	Zamft BM	Church GM
+323.	2013	Ho JML	Church GM
+324.	2013	Vigneault F	Church GM
+325.	2013	Robasky K	Lewis NE	Church GM 
+326.	2013	Lunshof JE	Church GM
+326a	2013	Laserson U	Vigneault F	Church, GM
+327.	2014	Tolonen AC	Church GM
+328.	2014	Lajoie MJ	Church GM
+329.	2014	Cruz JM	Church GM
+330.	2014	Marblestone AH	Zamft BM	Church GM
+331.	2014	Stranges PB	Church GM
+332.	2014	Ball MP	Bobe JR	Chou MF	Clegg T	Estep PW	Lunshof JE	Vandewege W	Zaranek AW	Church GM
+333.	2014	Church G	Vigneault F
+336.	2014	Lunshof JE	Church GM
+336a	2014	Levner D	Bachelet I	Church, GM
+337.	2014	Aach J	Mali P	Church GM
+338.	2014	Mandell DJ	Lajoie MJ	Mee MT	Church GM
+340.	2014	Marblestone A	Daugharthy E	Kalhor R	Shipman S	Church GM
+341.	2014	Kosuri S	Church GM
+342.	2014	Mee MT	Church GM	Wang HH.
+343.	2014	Kosuri S	Church G	Sommer M	Wang H
+344.	2014	Yaung SJ	Esvelt KM	Church GM
+345.	2014	Li J	Gu L	Aach J	Church GM
+346.	2014	Li J	Aach A	Church GM
+347.	2014	Lee J	Daugharthy ER	Scheiman J	Kalhor R	Ferrente TC	Terry R	Turczyk B	Yang JL	Lee HS	Aach J	Zhang K Church GM	Church, GM
+348.	2014	Guell M	Yang L	Church G
+349.	2014	Yang L	Yang JL	Byrne S	Pan J	Church GM
+350.	2014	Esvelt K	Church G	Lunshof J
+351.	2014	Esvelt K	Church G	Smidler A
+352.	2014	Esvelt KM	Smidler AL	Church GM
+

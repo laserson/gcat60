@@ -1,0 +1,650 @@
+{"date": "2014-01-02", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-01-06", "text": "GUEST SPEAKER: Joseph Torella, \u201cNovel approaches to biochemical production: metabolite valves and bionic bacteria\u201d", "type": "lab_meeting", "names": ["Joseph Torella"], "tags": ["guest"]}
+{"date": "2014-01-09", "text": "Jun Li; Alexander Wait Zaranek", "type": "lab_meeting", "names": ["Jun Li", "Alexander Wait Zaranek"], "tags": []}
+{"date": "2014-01-13", "text": "Vatsan Raman ; Naomi Genuth", "type": "lab_meeting", "names": ["Vatsan Raman", "Naomi Genuth"], "tags": []}
+{"date": "2014-01-16", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-01-20", "text": "HOLIDAY: MLK Day", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-01-23", "text": "GUEST SPEAKER: Yarden Katz, \u201cFunctional and computational analysis of RNA-binding proteins and their roles in cancer \u201d ; Kalim Mir", "type": "lab_meeting", "names": ["Yarden Katz", "Kalim Mir"], "tags": ["guest"]}
+{"date": "2014-01-27", "text": "Rich Terry ; Noah Taylor", "type": "lab_meeting", "names": ["Rich Terry", "Noah Taylor"], "tags": []}
+{"date": "2014-01-30", "text": "Jose Cruz; Alex Chavez (Time Change: 11:30-1:30)", "type": "lab_meeting", "names": ["Jose Cruz", "Alex Chavez"], "tags": []}
+{"date": "2014-02-03", "text": "(Room Change: 12-1pm, NRB 350 ) Jamie Rogers", "type": "lab_meeting", "names": ["Jamie Rogers"], "tags": []}
+{"date": "2014-02-05", "text": "Special Lab Seminar: 10-11am, NRB 350: GUEST SPEAKER: Barry Stoddard, \u201cUsing engineered gene targeting nucleases for the benefit of people and the detriment of mosquitos\u201d", "type": "lab_meeting", "names": ["Barry Stoddard"], "tags": ["guest"]}
+{"date": "2014-02-06", "text": "Madeleine Price Ball; Matthieu Landon (Time Change: 12:30-2:30)", "type": "lab_meeting", "names": ["Madeleine Price Ball", "Matthieu Landon"], "tags": []}
+{"date": "2014-02-10", "text": "No Meeting: DOE-BER Genomic Science, Washington DC", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-02-13", "text": "Ben Stranges & CAS9 Structure Lab Meeting, 12-1pm, Wyss 521", "type": "lab_meeting", "names": ["Ben Stranges"], "tags": []}
+{"date": "2014-02-17", "text": "HOLIDAY: Presidents Day", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-02-20", "text": "GUEST SPEAKER: Rigel Chan, \u201cInferring contribution of rare genetic variants to heritability using results from genome wide association studies \u201d ; Luhan Yang;", "type": "lab_meeting", "names": ["Rigel Chan", "Luhan Yang"], "tags": ["guest"]}
+{"date": "2014-02-24", "text": "No Meeting: Genetics Department Retreat", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-02-27", "text": "GUEST SPEAKER: Elaine Lim, \u201cHidden contributors to disease: rare recessive factors in common phenotypes \u201d ; PoYi Huang", "type": "lab_meeting", "names": ["Elaine Lim"], "tags": ["guest"]}
+{"date": "2014-03-03", "text": "GUEST SPEAKER: Chi Zhang: The X-linked Intellectual Disability Protein PHF6 Regulates Neuronal Migration in the Mammalian Brain ; Joseph Negri", "type": "lab_meeting", "names": ["Chi Zhang", "Joseph Negri"], "tags": ["guest"]}
+{"date": "2014-03-06", "text": "Dan Goodman \u201cMethods to generate libraries of synthetic genetic elements and measure their behavior \u201d ; John Aach", "type": "lab_meeting", "names": ["Dan Goodman", "John Aach"], "tags": []}
+{"date": "2014-03-10", "text": "GUEST SPEAKER: Jennifer Lin, \u201cMicrobe-Mineral Relationships and Biogenic Mineral Transformations in Actively Venting Deep-Sea Hydrothermal Chimneys \u201d ; Raj Chari", "type": "lab_meeting", "names": ["Jennifer Lin", "Biogenic Mineral Transformations", "Raj Chari"], "tags": ["guest"]}
+{"date": "2014-03-13", "text": "Department Special Seminar: Genetics, Biomedicine and the Human Experience in Space Symposium, NRB 350, 12-5pm", "type": "lab_meeting", "names": [], "tags": []}
+{"date": "2014-03-17", "text": "( Time change only Today 12:30-1:30 ) Michael Napolitano", "type": "lab_meeting", "names": ["Michael Napolitano"], "tags": []}
+{"date": "2014-03-20", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-03-24", "text": "Jonathan Scheiman ; Susan Byrne ; Mike Chou", "type": "lab_meeting", "names": ["Jonathan Scheiman", "Susan Byrne", "Mike Chou"], "tags": []}
+{"date": "2014-03-27", "text": "GUEST SPEAKER: Eswar Iyer, \u201cA Systems Level Approach to Dendrite Development: From Molecule to Behavior \u201d ; Margo Monroe", "type": "lab_meeting", "names": ["Eswar Iyer", "Level Approach", "Dendrite Development", "Margo Monroe"], "tags": ["guest"]}
+{"date": "2014-03-31", "text": "Barry Wanner ; Nikolai Eroshenko ; Noah Davidsohn", "type": "lab_meeting", "names": ["Barry Wanner", "Nikolai Eroshenko", "Noah Davidsohn"], "tags": []}
+{"date": "2014-04-03", "text": "Joyce Yang ; Javier Fernandez Juarez ; Dan Mandell", "type": "lab_meeting", "names": ["Joyce Yang", "Javier Fernandez Juarez", "Dan Mandell"], "tags": []}
+{"date": "2014-04-07", "text": "Evan Daugharthy ; Volker Busskamp ; Frederic Vigneault", "type": "lab_meeting", "names": ["Evan Daugharthy", "Volker Busskamp", "Frederic Vigneault"], "tags": []}
+{"date": "2014-04-10", "text": "Art Yu Sun ; Marc Guell (12-1:30 only) ; Poyi Huang\u2019s Dissertation (2-3pm)", "type": "lab_meeting", "names": ["Art Yu Sun", "Marc Guell", "Poyi"], "tags": []}
+{"date": "2014-04-14", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-04-15", "text": "(Wyss, 12-1:30) GUEST SPEAKER: Andrews Agbleke, \u201cChromosome dynamics- from bacteria to eukaryotic organisms \u201d ; Ben Stranges", "type": "lab_meeting", "names": ["Andrews Agbleke", "Ben Stranges"], "tags": ["guest"]}
+{"date": "2014-04-17", "text": "GUEST SPEAKER: Lina Gonzalez \u201cMotility Reversal Indicates Sensing of\u00a0Magnetic Field Gradients in Magnetotactic bacteria \u201d ; Reza Kalhor", "type": "lab_meeting", "names": ["Lina Gonzalez", "Reza Kalhor"], "tags": ["guest"]}
+{"date": "2014-04-21", "text": "Charles Fracchia ; Mingjie Dai ; Yoav Mayshar", "type": "lab_meeting", "names": ["Charles Fracchia", "Mingjie Dai", "Yoav Mayshar"], "tags": []}
+{"date": "2014-04-24", "text": "GUEST SPEAKER: Xuebing Wu, \u201cGenome-wide binding of CRISPR-Cas in mammalian cells\u201d", "type": "lab_meeting", "names": [], "tags": ["guest"]}
+{"date": "2014-04-28", "text": "GUEST SPEAKER: Vincent DiGiacomo, \u201cDeveloping Laminin Receptor Inhibitors in silico \u201d ; Ida Pantoja-Feliciano", "type": "lab_meeting", "names": ["Vincent DiGiacomo", "Laminin Receptor Inhibitors", "Ida"], "tags": ["guest"]}
+{"date": "2014-05-01", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-05-05", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-05-08", "text": "No Meeting: LAB SPRING CLEANING DAY!! <Food will be provided for volunteers>", "type": "lab_meeting", "names": ["Food"], "tags": ["canceled"]}
+{"date": "2014-05-12", "text": "(NEW ROOM: NRB 350 ) CEGS Proposal Discussion Meeting \u2013 ALL ARE REQUIRED TO ATTEND!", "type": "lab_meeting", "names": [], "tags": []}
+{"date": "2014-05-15", "text": "GUEST SPEAKER: Ninning Liu, \u201cMechanical Flexibility and Discrete Stepping of an Ultra-Fast DNA Motor: SpoIIIE\u201d ; Stephanie Yaung", "type": "lab_meeting", "names": ["Stephanie Yaung"], "tags": ["guest"]}
+{"date": "2014-05-19", "text": "GUEST SPEAKER: Michael Engstrom ; Danny Levner ; Yoav Mayshar", "type": "lab_meeting", "names": ["Michael Engstrom", "Danny Levner", "Yoav Mayshar"], "tags": ["guest"]}
+{"date": "2014-05-22", "text": "Bobby Dhadwar ; Henry Lee ; James DiCarlo", "type": "lab_meeting", "names": ["Bobby Dhadwar", "Henry Lee", "James DiCarlo"], "tags": []}
+{"date": "2014-05-26", "text": "HOLIDAY: Memorial Day", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-05-27", "text": "Gleb Kuznetsov ; Seth Shipman ; LiangCai Gu", "type": "lab_meeting", "names": ["Gleb Kuznetsov", "Seth Shipman"], "tags": []}
+{"date": "2014-05-29", "text": "(ROOM CHANGE: Wyss 521 ) Wei Leong Chew ; Jonathan Braff ; Jay Lee", "type": "lab_meeting", "names": ["Leong Chew", "Jonathan Braff", "Jay Lee"], "tags": []}
+{"date": "2014-06-02", "text": "Joe Davis ; Kevin Esvelt ; Mike Mee", "type": "lab_meeting", "names": ["Joe Davis", "Kevin Esvelt", "Mike Mee"], "tags": []}
+{"date": "2014-06-05", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-06-09", "text": "Justin Feng ; Johnny Hu ; Alex Ng", "type": "lab_meeting", "names": ["Justin Feng", "Johnny Hu", "Alex Ng"], "tags": []}
+{"date": "2014-06-12", "text": "Anik Debnath ; Prashant Mali ; Mike Sismour", "type": "lab_meeting", "names": ["Anik Debnath", "Mike Sismour"], "tags": []}
+{"date": "2014-06-16", "text": "GUEST SPEAKER: Jeff Nivala, \u201cUnfoldase-mediated protein analysis with a nanopore-a step towards single-molecule protein sequencing \u201d ; Jeantine Lunshof", "type": "lab_meeting", "names": ["Jeff Nivala", "Jeantine Lunshof"], "tags": ["guest"]}
+{"date": "2014-06-19", "text": "GUEST SPEAKER: Ben Pope, \u201cDNA elements regulate replication timing and define stable units of chromosome structure \u201d ; Dmitry Ter-Ovanesyan", "type": "lab_meeting", "names": ["Ben Pope", "Dmitry"], "tags": ["guest"]}
+{"date": "2014-06-23", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-06-26", "text": "Alex Chavez ; Kalim Mir ; Noah Taylor", "type": "lab_meeting", "names": ["Alex Chavez", "Kalim Mir", "Noah Taylor"], "tags": []}
+{"date": "2014-06-30", "text": "GUEST SPEAKER: Morgan Levine, \u201cThe whole is greater than the sum of its parts: How complex systems approaches for studying biomarkers and genes can improve our understanding of the aging process\u201d ; Daniel Wiegand for Rich Terry", "type": "lab_meeting", "names": ["Morgan Levine", "Daniel Wiegand", "Rich Terry"], "tags": ["guest"]}
+{"date": "2014-07-03", "text": "Susan Byrne ; Jose Cruz ; Michael Napolitano", "type": "lab_meeting", "names": ["Susan Byrne", "Jose Cruz", "Michael Napolitano"], "tags": []}
+{"date": "2014-07-07", "text": "Jamie Rogers ; Luhan Yang ; Raj Chari", "type": "lab_meeting", "names": ["Jamie Rogers", "Luhan Yang", "Raj Chari"], "tags": []}
+{"date": "2014-07-10", "text": "Michael Chou ; Mathieu Landon ; Nikolai Eroshenko", "type": "lab_meeting", "names": ["Michael Chou", "Mathieu Landon", "Nikolai Eroshenko"], "tags": []}
+{"date": "2014-07-14", "text": "Margo Monroe ; Jonathan Scheiman ; Barry Wanner", "type": "lab_meeting", "names": ["Margo Monroe", "Jonathan Scheiman", "Barry Wanner"], "tags": []}
+{"date": "2014-07-17", "text": "SPECIAL GUEST SPEAKER: Prof Yitzhak Pilpel of the Weizmann Institute of Israel, \u201cSystems level view on protein translation \u201d ; Julie Norville", "type": "lab_meeting", "names": ["Yitzhak Pilpel", "Julie Norville"], "tags": ["guest"]}
+{"date": "2014-07-21", "text": "Evan Daugharthy ; Javier Fernandez ; Marc Guell", "type": "lab_meeting", "names": ["Evan Daugharthy", "Javier Fernandez", "Marc Guell"], "tags": []}
+{"date": "2014-07-24", "text": "Dan Mandell ; Joyce Yang ; Art Yu Sun", "type": "lab_meeting", "names": ["Dan Mandell", "Joyce Yang", "Art Yu Sun"], "tags": []}
+{"date": "2014-07-28", "text": "(ROOM CHANGE: NRB 350 ) Noah Davidsohn ; Reza Kalhor ; Vatsan Raman", "type": "lab_meeting", "names": ["Davidsohn", "Reza Kalhor", "Vatsan Raman"], "tags": []}
+{"date": "2014-07-31", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-08-04", "text": "(ROOM CHANGE: NRB 350 ) Charles Fracchia ; Ben Stranges ; Mingjie Dai", "type": "lab_meeting", "names": ["Charles Fracchia", "Ben Stranges", "Mingjie Dai"], "tags": []}
+{"date": "2014-08-07", "text": "MAP Summer Student Presentations: Lisa Ramos ; Aman Aberra (2); David Mora-Boellstorff (3) ; Noah Taylor", "type": "lab_meeting", "names": ["Lisa Ramos", "Aman Aberra", "David", "Noah Taylor"], "tags": []}
+{"date": "2014-08-11", "text": "(ROOM CHANGE: NRB 350 ) MAP Summer Student Presentations: Emily Salvador (4) ; Mohamed Yousif (5); William Roberts (6) ; Dan Goodman", "type": "lab_meeting", "names": ["Emily Salvador", "Mohamed Yousif", "William Roberts", "Dan Goodman"], "tags": []}
+{"date": "2014-08-14", "text": "MAP Summer Student Presentations: Ruby Benn (7 ) ; Cherice Hughes-Oliver (8) ; Ruth Hanna (Summer Student) ; Yoav Mayshar", "type": "lab_meeting", "names": ["Ruby Benn", "Ruth Hanna", "Yoav Mayshar"], "tags": []}
+{"date": "2014-08-18", "text": "(ROOM CHANGE: NRB 350 ) Chris Guzman ; Jay Lee ; Danny Levner", "type": "lab_meeting", "names": ["Chris Guzman", "Jay Lee", "Danny Levner"], "tags": []}
+{"date": "2014-08-21", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-08-25", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-08-26", "text": "(ROOM CHANGE: NRB 350 ) GUEST SPEAKER: Brian Beliveau , \u201cOligopaints: highly programmable oligonucleotide probes for visualizing genomes in situ\u201d ; Ida Pantoja", "type": "lab_meeting", "names": ["Brian Beliveau", "Ida Pantoja"], "tags": ["guest"]}
+{"date": "2014-08-28", "text": "James DiCarlo ; Gleb Kuznetsov ; Henry Lee", "type": "lab_meeting", "names": ["James DiCarlo", "Gleb Kuznetsov", "Henry Lee"], "tags": []}
+{"date": "2014-09-01", "text": "HOLIDAY : Labor Day", "type": "lab_meeting", "names": ["Labor"], "tags": ["canceled"]}
+{"date": "2014-09-04", "text": "Anik Debnath ; LiangCai Gu ; Seth Shipman", "type": "lab_meeting", "names": ["Anik Debnath", "Seth Shipman"], "tags": []}
+{"date": "2014-09-08", "text": "No Meeting: Radcliffe", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-09-11", "text": "No Meeting: Stockholm, Sweden", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-09-15", "text": "Bobby Dhadwar ; Kevin Esvelt ; Michael Mee", "type": "lab_meeting", "names": ["Bobby Dhadwar", "Kevin Esvelt", "Michael Mee"], "tags": []}
+{"date": "2014-09-16", "text": "Justin Feng ; Jeantine Lunshof ; Stephanie Yaung", "type": "lab_meeting", "names": ["Justin Feng", "Jeantine Lunshof", "Stephanie Yaung"], "tags": []}
+{"date": "2014-09-18", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-09-22", "text": "Jun Li ; Johnny Hu ; Michael Sismour", "type": "lab_meeting", "names": ["Jun Li", "Johnny Hu", "Michael Sismour"], "tags": []}
+{"date": "2014-09-25", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-09-29", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-10-02", "text": "Joe Davis ; Po-Yi Huang ; Dima Ter-Ovanesyan", "type": "lab_meeting", "names": ["Joe Davis", "Huang", "Dima"], "tags": []}
+{"date": "2014-10-06", "text": "Michael Chou ; Alex Ng ; Vatsan Raman", "type": "lab_meeting", "names": ["Michael Chou", "Alex Ng", "Vatsan Raman"], "tags": []}
+{"date": "2014-10-09", "text": "Wei Leong Chew ; Kalim Mir ; Jamie Rogers", "type": "lab_meeting", "names": ["Wei Leong Chew", "Kalim Mir", "Jamie Rogers"], "tags": []}
+{"date": "2014-10-13", "text": "HOLIDAY: Columbus Day", "type": "lab_meeting", "names": ["Columbus"], "tags": ["canceled"]}
+{"date": "2014-10-14", "text": "* Susan Byrne ; Jose Cruz ; Rich Terry", "type": "lab_meeting", "names": ["Susan Byrne", "Jose Cruz", "Rich Terry"], "tags": []}
+{"date": "2014-10-16", "text": "No Meeting: Ipswich MA", "type": "lab_meeting", "names": ["Ipswich MA"], "tags": ["canceled"]}
+{"date": "2014-10-20", "text": "Raj Chari ; Nikolai Eroshenko ; Mathieu Landon", "type": "lab_meeting", "names": ["Raj Chari", "Nikolai Eroshenko", "Mathieu Landon"], "tags": []}
+{"date": "2014-10-23", "text": "Margo Monroe ; Michael Napolitano ; Luhan Yang", "type": "lab_meeting", "names": ["Margo Monroe", "Michael Napolitano", "Luhan Yang"], "tags": []}
+{"date": "2014-10-27", "text": "Alex Chavez ; Jonathan Scheiman ; Barry Wanner", "type": "lab_meeting", "names": ["Alex Chavez", "Jonathan Scheiman", "Barry Wanner"], "tags": []}
+{"date": "2014-10-30", "text": "No Meeting: CEGS Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-11-03", "text": "Evan Daugharthy ; Julie Norville ; Su Vora", "type": "lab_meeting", "names": ["Evan Daugharthy", "Julie Norville"], "tags": []}
+{"date": "2014-11-06", "text": "Javier Fernandez ; Marc Guell ; Dan Mandell", "type": "lab_meeting", "names": ["Javier Fernandez", "Marc Guell", "Dan Mandell"], "tags": []}
+{"date": "2014-11-10", "text": "Noah Davidsohn ; Joyce Yang ; Art Yu Sun", "type": "lab_meeting", "names": ["Noah Davidsohn", "Joyce Yang", "Art Yu Sun"], "tags": []}
+{"date": "2014-11-13", "text": "No Meeting: Wyss Retreat", "type": "lab_meeting", "names": ["Wyss Retreat"], "tags": ["canceled"]}
+{"date": "2014-11-17", "text": "Mingjie Dai ; Reza Kalhor ; Noah Taylor", "type": "lab_meeting", "names": ["Mingjie Dai", "Reza Kalhor", "Noah Taylor"], "tags": []}
+{"date": "2014-11-20", "text": "No Meeting: PQG keynote", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-11-24", "text": "No Meeting: New York City", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-11-25", "text": "Jay Lee ; Ben Stranges ; Dan Goodman", "type": "lab_meeting", "names": ["Jay Lee", "Ben Stranges", "Dan Goodman"], "tags": []}
+{"date": "2014-11-27", "text": "HOLIDAY: Thanksgiving Day", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-12-01", "text": "Charles Fracchia ; Chris Guzman ; Andrea Smidler", "type": "lab_meeting", "names": ["Charles Fracchia", "Chris Guzman", "Andrea Smidler"], "tags": []}
+{"date": "2014-12-04", "text": "James DiCarlo ; Henry Lee ; Danny Levner", "type": "lab_meeting", "names": ["James DiCarlo", "Henry Lee", "Danny Levner"], "tags": []}
+{"date": "2014-12-08", "text": "No Meeting: St. Louis", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-12-11", "text": "Anik Debnath ; LiangCai Gu ; Seth Shipman", "type": "lab_meeting", "names": ["Anik Debnath", "Seth Shipman"], "tags": []}
+{"date": "2014-12-15", "text": "Bobby Dhadwar ; Kevin Esvelt ; Mike Mee", "type": "lab_meeting", "names": ["Bobby Dhadwar", "Kevin Esvelt", "Mike Mee"], "tags": []}
+{"date": "2014-12-18", "text": "Justin Feng ; Jun Li ; Stephanie Yaung", "type": "lab_meeting", "names": ["Justin Feng", "Jun Li", "Stephanie Yaung"], "tags": []}
+{"date": "2014-12-22", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-12-25", "text": "HOLIDAY: Christmas Day / Winter Recess", "type": "lab_meeting", "names": ["Christmas"], "tags": ["canceled"]}
+{"date": "2014-12-29", "text": "No Meeting: Winter Recess", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-12-30", "text": "No Meeting: Winter Recess", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2014-01-01", "text": "HOLIDAY: New Year\u2019s Day", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-01-03", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-01-07", "text": "Jamie Rogers; Sri Kosuri", "type": "lab_meeting", "names": ["Jamie Rogers", "Sri Kosuri"], "tags": []}
+{"date": "2013-01-10", "text": "No Meeting: San Francisco visits", "type": "lab_meeting", "names": ["San Francisco"], "tags": ["canceled"]}
+{"date": "2013-01-14", "text": "Jonathan Scheiman ; Javier Fernandez Juarez", "type": "lab_meeting", "names": ["Jonathan Scheiman", "Javier Fernandez Juarez"], "tags": []}
+{"date": "2013-01-17", "text": "VISITOR: Rodolfo Jimenez: \u201cThe intracellular domain of CMG2: its role in making CMG2 an anthrax toxin receptor\u00a0\u201c ; Alex Chavez", "type": "lab_meeting", "names": ["Rodolfo Jimenez", "Alex Chavez"], "tags": ["guest"]}
+{"date": "2013-01-21", "text": "HOLIDAY: MLK Day", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-01-24", "text": "No Meeting: Warp Drive Board Meeting", "type": "lab_meeting", "names": ["Warp Drive Board Meeting"], "tags": ["canceled"]}
+{"date": "2013-01-28", "text": "(**Room change: NRB 350 \u2013 Combined meeting w/ Silver Lab, 12-1pm) VISITOR: Nili Ostrov: \"Not just for bakers: harnessing yeast genetics for metabolic engineering and\u00a0pathogen\u00a0detection\u201d; VISITOR: Peter Enyeart: \u201cEngineering Bacterial Genomes with Cre/lox\u201d", "type": "lab_meeting", "names": ["Silver Lab", "Nili Ostrov", "Peter Enyeart"], "tags": ["guest"]}
+{"date": "2013-01-31", "text": "Reza Kalhor ; Chao Li", "type": "lab_meeting", "names": ["Reza Kalhor", "Chao Li"], "tags": []}
+{"date": "2013-02-04", "text": "Department Seminar (12-1pm, NRB 350); James DiCarlo (1-2pm, Wyss 521)", "type": "lab_meeting", "names": ["James DiCarlo"], "tags": []}
+{"date": "2013-02-07", "text": "No Meeting: Siemens HKC & Georgetown Visit", "type": "lab_meeting", "names": ["Georgetown Visit"], "tags": ["canceled"]}
+{"date": "2013-02-11", "text": "No Meeting: Sigma Aldrich", "type": "lab_meeting", "names": ["Sigma Aldrich"], "tags": ["canceled"]}
+{"date": "2013-02-14", "text": "VISITOR: Jingwei Bai, \u201cNanofabrication and its potential in biotechnology\u201d; VISTOR: Aniruddh Sarkar, \u201cTowards a platform for in-situ single cell proteomics\u201d", "type": "lab_meeting", "names": ["Jingwei Bai", "Aniruddh Sarkar"], "tags": ["guest"]}
+{"date": "2013-02-18", "text": "HOLIDAY: President\u2019s Day", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-02-21", "text": "No Meeting: DARPA Living Foundries Meeting, San Francisco", "type": "lab_meeting", "names": ["San Francisco"], "tags": ["canceled"]}
+{"date": "2013-02-25", "text": "No Meeting: Genetics Department Retreat", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-02-28", "text": "No Meeting: Agilent Technology Conference, San Francisco", "type": "lab_meeting", "names": ["Agilent Technology Conference", "San Francisco"], "tags": ["canceled"]}
+{"date": "2013-03-04", "text": "Department Seminar (12-1pm); No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-03-07", "text": "No Meeting: Genia & Scripps Conference, San Francisco", "type": "lab_meeting", "names": ["Scripps Conference", "San Francisco"], "tags": ["canceled"]}
+{"date": "2013-03-11", "text": "VISITOR: Elad Firnberg, \u201cExploring protein adaptive evolution across the fitness landscape via PFunkel mutagenesis\u201d ; Volker Busskamp", "type": "lab_meeting", "names": ["Elad Firnberg", "Volker Busskamp"], "tags": ["guest"]}
+{"date": "2013-03-14", "text": "No Meeting: TED-x De-Extinction Conference, Bethesda MD", "type": "lab_meeting", "names": ["Bethesda MD"], "tags": ["canceled"]}
+{"date": "2013-03-18", "text": "VISITOR: Jimmy Lin, \u201cCancer Genomics from Bench of Bedside \u2013 A Personal Journey\u201d ; VISITOR: Herbert Garcia, \u201cApplications of VDJ rearrangements detection\u201d", "type": "lab_meeting", "names": ["Jimmy Lin", "Herbert Garcia"], "tags": ["guest"]}
+{"date": "2013-03-21", "text": "No Meeting: HHMI & NHGRI Seminar Series, MD", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-03-25", "text": "No Meeting: SynBERC Retreat, Berkley CA", "type": "lab_meeting", "names": ["Berkley CA"], "tags": ["canceled"]}
+{"date": "2013-03-28", "text": "No Meeting: SynBERC Retreat, Berkley CA ; LAB SPRING CLEANING (12-1) & Lunch (1-2pm)", "type": "lab_meeting", "names": ["Berkley CA"], "tags": ["canceled"]}
+{"date": "2013-04-01", "text": "No Meeting: Wyss SAB meeting", "type": "lab_meeting", "names": ["Wyss SAB"], "tags": ["canceled"]}
+{"date": "2013-04-04", "text": "Xavier Rios; Nick Guido", "type": "lab_meeting", "names": ["Xavier Rios", "Nick Guido"], "tags": []}
+{"date": "2013-04-08", "text": "No Meeting: BIOT Conference", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-04-11", "text": "VISITOR: Margo Monroe, \u201cHighly sensitive and multiplexed platforms for allergy diagnostics\u201d; Poyi Huang", "type": "lab_meeting", "names": ["Margo Monroe", "Poyi Huang"], "tags": ["guest"]}
+{"date": "2013-04-16", "text": "(** NEW TIME: 11:30-12:30, NRB 350) VISITOR: Andres Plata Stapper, \u201cEvolutionary dynamics of interacting gamete recognition proteins in Strongylocentrotus purpuratus\u201d", "type": "lab_meeting", "names": ["Andres Plata Stapper"], "tags": ["guest"]}
+{"date": "2013-04-18", "text": "No Meeting: EG Conference, Monterey CA", "type": "lab_meeting", "names": ["Monterey CA"], "tags": ["canceled"]}
+{"date": "2013-04-22", "text": "Di Zhang", "type": "lab_meeting", "names": ["Zhang"], "tags": []}
+{"date": "2013-04-25", "text": "No Meeting: GET Conference, Boston", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-04-29", "text": "No Meeting: NHGRI PI Meeting, San Diego", "type": "lab_meeting", "names": ["San Diego"], "tags": ["canceled"]}
+{"date": "2013-05-02", "text": "No Meeting: TEDxCERN (Switzerland)", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-05-06", "text": "No Meeting: Sigma Aldrich", "type": "lab_meeting", "names": ["Sigma Aldrich"], "tags": ["canceled"]}
+{"date": "2013-05-09", "text": "(**12-1pm only) Joseph Negri", "type": "lab_meeting", "names": ["Joseph Negri"], "tags": []}
+{"date": "2013-05-13", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-05-16", "text": "Susan Byrne; Raj Chari", "type": "lab_meeting", "names": ["Susan Byrne", "Raj Chari"], "tags": []}
+{"date": "2013-05-20", "text": "No Meeting: Governance of Emergence Technology Conference, Arizona", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-05-23", "text": "No Meeting: Think Tank on Citizen Engagement, Washington DC", "type": "lab_meeting", "names": ["Think Tank", "Citizen Engagement"], "tags": ["canceled"]}
+{"date": "2013-05-27", "text": "HOLIDAY: Memorial Day", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-05-28", "text": "(**Lab meeting make-up, 1-3pm, NRB 350) Dan Goodman; Adam Marblestone", "type": "lab_meeting", "names": ["Dan Goodman", "Adam Marblestone"], "tags": []}
+{"date": "2013-05-30", "text": "No Meeting: San Francisco", "type": "lab_meeting", "names": ["San Francisco"], "tags": ["canceled"]}
+{"date": "2013-06-03", "text": "No Meeting: Polaris meetings", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-06-06", "text": "No Meeting: Wyss Symposium", "type": "lab_meeting", "names": ["Wyss Symposium"], "tags": ["canceled"]}
+{"date": "2013-06-10", "text": "No Meeting: Dover, VT", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-06-13", "text": "No Meeting: Washington DC", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-06-17", "text": "Joe Davis; Graham Rockwell", "type": "lab_meeting", "names": ["Joe Davis", "Graham Rockwell"], "tags": []}
+{"date": "2013-06-20", "text": "No Meeting: Keystone Symposiums, Stockholm, Sweden", "type": "lab_meeting", "names": ["Keystone Symposiums", "Stockholm"], "tags": ["canceled"]}
+{"date": "2013-06-24", "text": "VISITOR: Gozde Durmus, \u201cUsing Nano-material Science to Fight Antibiotic-Resistant Infections\u201d ; Madeleine Price Ball", "type": "lab_meeting", "names": ["Gozde Durmus", "Madeleine Price Ball"], "tags": ["guest"]}
+{"date": "2013-06-27", "text": "No Meeting: YPO summer meeting (South Carolina)", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-07-01", "text": "Jay Lee; Nikolai Eroshenko;", "type": "lab_meeting", "names": ["Jay Lee", "Nikolai Eroshenko"], "tags": []}
+{"date": "2013-07-04", "text": "HOLIDAY: Independence Day", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-07-08", "text": "[** NRB 258, 12-1pm, for today only ] VISITOR: Avihu Yona, \u201cThe role of genomic duplications in adaptive evolution\u201d", "type": "lab_meeting", "names": ["Avihu Yona"], "tags": ["guest"]}
+{"date": "2013-07-11", "text": "Nathan Lewis ; John Aach", "type": "lab_meeting", "names": ["Nathan Lewis", "John Aach"], "tags": []}
+{"date": "2013-07-15", "text": "VISITOR: Morgan Maeder, \u201cEngineered DNA-binding proteins for targeted gene regulation\u201d; Noah Davidsohn", "type": "lab_meeting", "names": ["Morgan Maeder", "Noah Davidsohn"], "tags": ["guest"]}
+{"date": "2013-07-18", "text": "[ NRB 258 for today only ] Marc Guell", "type": "lab_meeting", "names": ["Marc Guell"], "tags": []}
+{"date": "2013-07-22", "text": "Ben Stranges; Michael Napolitano", "type": "lab_meeting", "names": ["Ben Stranges", "Michael Napolitano"], "tags": []}
+{"date": "2013-07-25", "text": "Yoav Mayshar; Chris Guzman", "type": "lab_meeting", "names": ["Yoav Mayshar", "Chris Guzman"], "tags": []}
+{"date": "2013-07-29", "text": "Dan Mandell; Map Summer Student Presentations: Stephany Foster, Isabel Lopez-Garcia", "type": "lab_meeting", "names": ["Dan Mandell", "Map Summer Student", "Stephany Foster", "Isabel"], "tags": []}
+{"date": "2013-08-01", "text": "Mike Chou; Map Summer Student Presentations: Laura Torres Cruz , Tiffany Ejikeme", "type": "lab_meeting", "names": ["Mike Chou", "Map Summer Student", "Tiffany Ejikeme"], "tags": []}
+{"date": "2013-08-05", "text": "VISITOR: Seth Shipman, \u201cThe role of neuroligins in synapse formation, maintenance, and plasticity\u201d; Map Summer Student Presentations: Roberto Guzman-Badillo; Brooke Williams", "type": "lab_meeting", "names": ["Seth Shipman", "Map Summer Student", "Roberto", "Brooke Williams"], "tags": ["guest"]}
+{"date": "2013-08-08", "text": "VISITOR: Sandrine Boissel, \u201cMegaTALs: a rare-cleaving nuclease architecture for hyperspecific genome engineering\u201d; Summer Student Presentations: Giselle Clarke; Sandra Fernandez", "type": "lab_meeting", "names": ["Sandrine Boissel", "Summer Student", "Giselle Clarke", "Sandra Fernandez"], "tags": ["guest"]}
+{"date": "2013-08-12", "text": "Mingjie Dai", "type": "lab_meeting", "names": ["Mingjie Dai"], "tags": []}
+{"date": "2013-08-15", "text": "No Meeting: Washington DC", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-08-19", "text": "Ari Friedland", "type": "lab_meeting", "names": ["Ari Friedland"], "tags": []}
+{"date": "2013-08-22", "text": "Ida Pantoja-Feliciano; Danny Levner", "type": "lab_meeting", "names": ["Ida Pantoja-Feliciano", "Danny Levner"], "tags": []}
+{"date": "2013-08-26", "text": "No Meeting: GMC Travel", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-08-29", "text": "Le Cong; Jeantine Lunshof", "type": "lab_meeting", "names": ["Le Cong", "Jeantine Lunshof"], "tags": []}
+{"date": "2013-09-02", "text": "HOLIDAY: Labor Day", "type": "lab_meeting", "names": ["Labor"], "tags": ["canceled"]}
+{"date": "2013-09-05", "text": "No Meeting: SENS Conference, UK", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-09-09", "text": "Joanne Ho; Evan Daugharty", "type": "lab_meeting", "names": ["Joanne Ho", "Evan Daugharty"], "tags": []}
+{"date": "2013-09-12", "text": "No Meeting: San Francisco", "type": "lab_meeting", "names": ["San Francisco"], "tags": ["canceled"]}
+{"date": "2013-09-16", "text": "No Meeting: Sigma Aldrich, Shanghai", "type": "lab_meeting", "names": ["Sigma Aldrich"], "tags": ["canceled"]}
+{"date": "2013-09-19", "text": "No Meeting: Sigma Aldrich, Shanghai", "type": "lab_meeting", "names": ["Sigma Aldrich"], "tags": ["canceled"]}
+{"date": "2013-09-23", "text": "No Meeting: Mumbai India", "type": "lab_meeting", "names": ["Mumbai India"], "tags": ["canceled"]}
+{"date": "2013-09-26", "text": "No Meeting: Joslin Lecture", "type": "lab_meeting", "names": ["Joslin Lecture"], "tags": ["canceled"]}
+{"date": "2013-09-30", "text": "No Meeting: SynBERC Retreat", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-10-03", "text": "VISITOR: Danny Nu\u00f1ez, MAP Candidate, \u201cUsing Bioimage Informatics to\u00a0Study the Temporal and Spatial Regulation of Clathrin Mediated Endocytosis\u201d ; Charles Fracchia", "type": "lab_meeting", "names": ["Danny Nu\u00f1ez", "Spatial Regulation", "Clathrin Mediated", "Charles Fracchia"], "tags": ["guest"]}
+{"date": "2013-10-07", "text": "Chris Gregg; Stephanie Yaung", "type": "lab_meeting", "names": ["Chris Gregg", "Stephanie Yaung"], "tags": []}
+{"date": "2013-10-08", "text": "** MAKEUP LAB MEETING, 12-2pm, NRB 350: GUEST SPEAKER: Uwe Sleytre, Ph.D , \u201cS-layer Proteins as Basic Building Blocks for Nanobiotechnological Applications\u201d ; Marc Lajoie", "type": "lab_meeting", "names": ["Uwe Sleytre", "Basic Building Blocks", "Marc Lajoie"], "tags": ["guest"]}
+{"date": "2013-10-10", "text": "Julie Norville; Henry Lee", "type": "lab_meeting", "names": ["Julie Norville", "Henry Lee"], "tags": []}
+{"date": "2013-10-14", "text": "HOLIDAY: Columbus Day", "type": "lab_meeting", "names": ["Columbus"], "tags": ["canceled"]}
+{"date": "2013-10-17", "text": "No Meeting: CEGS, Wisconsin", "type": "lab_meeting", "names": ["Wisconsin"], "tags": ["canceled"]}
+{"date": "2013-10-21", "text": "No Meeting: Merck Scientific Input Meeting", "type": "lab_meeting", "names": ["Merck Scientific Input Meeting"], "tags": ["canceled"]}
+{"date": "2013-10-24", "text": "No Meeting: Smithsonian Event, Washington DC", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-10-28", "text": "No Meeting: China", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-10-31", "text": "No Meeting: China", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-11-04", "text": "No Meeting: FutureMed Conference, San Diego", "type": "lab_meeting", "names": ["San Diego"], "tags": ["canceled"]}
+{"date": "2013-11-07", "text": "No Meeting: Wellcome Trust Conference, Cambridge UK", "type": "lab_meeting", "names": ["Cambridge UK"], "tags": ["canceled"]}
+{"date": "2013-11-11", "text": "HOLIDAY: Veteran\u2019s Day", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-11-14", "text": "[** 2:00-4:00pm , NRB 350, today only ] Azree A-Nazri; Gleb Kuznetsov", "type": "lab_meeting", "names": ["Azree A-Nazri", "Gleb Kuznetsov"], "tags": []}
+{"date": "2013-11-18", "text": "No Meeting: NHGRI meeting, Bethesda MD", "type": "lab_meeting", "names": ["Bethesda MD"], "tags": ["canceled"]}
+{"date": "2013-11-21", "text": "LiangCai Gu; Bobby Dhadwar", "type": "lab_meeting", "names": ["Bobby Dhadwar"], "tags": []}
+{"date": "2013-11-25", "text": "Joe Davis; Joyce Yang", "type": "lab_meeting", "names": ["Joe Davis", "Joyce Yang"], "tags": []}
+{"date": "2013-11-26", "text": "** MAKEUP LAB MEETING, 10-12pm , NRB 350: Jose Cruz; Wei Leong Chew", "type": "lab_meeting", "names": ["Jose Cruz", "Wei Leong Chew"], "tags": []}
+{"date": "2013-11-28", "text": "HOLIDAY: Thanksgiving Day", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-12-02", "text": "(Today only: NRB 350 ) Department Seminar, NRB 350, 12-1pm ; Dmitry Ter-Ovanesyan , 1-2pm, NRB 350", "type": "lab_meeting", "names": ["Dmitry Ter-Ovanesyan"], "tags": []}
+{"date": "2013-12-05", "text": "(NEW TIME TODAY: 12:30 - 2:15) Anik Debnath; Julien Ayroles", "type": "lab_meeting", "names": ["Julien Ayroles"], "tags": []}
+{"date": "2013-12-09", "text": "No Meeting: Sigma Aldrich", "type": "lab_meeting", "names": ["Sigma Aldrich"], "tags": ["canceled"]}
+{"date": "2013-12-12", "text": "GUEST SPEAKER: Kyle Cromer, \u201cYY1 mutation altering DNA-binding motif drives pathogenesis of insulinomas\u201d; Kevin Esvelt", "type": "lab_meeting", "names": ["Kyle Cromer", "Kevin Esvelt"], "tags": ["guest"]}
+{"date": "2013-12-16", "text": "GUEST SPEAKER: Matthew Weinstock, \u201cReflecting on Life: Adventures in Mirror-Image Biology\u201d ; Mike Sismour", "type": "lab_meeting", "names": ["Matthew Weinstock", "Mike Sismour"], "tags": ["guest"]}
+{"date": "2013-12-17", "text": "** MAKEUP LAB MEETING, 12-2pm , NRB 350: Alex Ng; Mike Mee", "type": "lab_meeting", "names": ["Alex Ng", "Mike Mee"], "tags": []}
+{"date": "2013-12-19", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-12-23", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-12-26", "text": "No Meeting: Winter Break", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2013-12-30", "text": "No Meeting: Winter Break", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-01-02", "text": "No meeting: New Year\u2019s Day (Observed)", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-01-05", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-01-09", "text": "James DiCarlo; Joe Davis", "type": "lab_meeting", "names": ["James DiCarlo", "Joe Davis"], "tags": []}
+{"date": "2012-01-12", "text": "Jonathan Scheiman \"Multiple Functions of the 37/67 kDa Laminin Receptor\"", "type": "lab_meeting", "names": ["Jonathan Scheiman"], "tags": []}
+{"date": "2012-01-16", "text": "No meeting: Martin Luther King Jr. Day", "type": "lab_meeting", "names": ["Martin Luther"], "tags": ["canceled"]}
+{"date": "2012-01-19", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-01-23", "text": "Madeleine Price Ball The PGP; Seminar: Matthew Jakubik (Dissertation), 1:30pm, NRB350", "type": "lab_meeting", "names": ["Madeleine Price", "Seminar", "Matthew Jakubik"], "tags": []}
+{"date": "2012-01-26", "text": "Shawn Douglas DNAno; Sasha Wait Personal Genome Computing", "type": "lab_meeting", "names": ["Shawn Douglas DNAno", "Sasha Wait Personal Genome"], "tags": []}
+{"date": "2012-01-30", "text": "No meeting: Kavli Symposium: Brain Activity Map", "type": "lab_meeting", "names": ["Kavli Symposium", "Brain Activity Map"], "tags": ["canceled"]}
+{"date": "2012-02-02", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-02-06", "text": "VISTOR: Xiaolin Hao: \"Sharpening the edge of tools for metagenomic study\" 12-1pm", "type": "lab_meeting", "names": ["Xiaolin Hao"], "tags": []}
+{"date": "2012-02-09", "text": "VISITOR: Reza Kalhor: Studying 3D Structure of Chromosomes; V Busskamp Building a brain", "type": "lab_meeting", "names": ["Reza Kalhor"], "tags": ["guest"]}
+{"date": "2012-02-13", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-02-16", "text": "Kimberly Robasky Computing Personal Genomes and Transcriptomes", "type": "lab_meeting", "names": ["Kimberly Robasky"], "tags": []}
+{"date": "2012-02-20", "text": "No Meeting: Holiday", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-02-23", "text": "George Church: DNA as digital storage for brain activity (and all other data)", "type": "lab_meeting", "names": ["George Church"], "tags": []}
+{"date": "2012-02-27", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-03-01", "text": "Nick Guido: \u2018More & More Fatty Acids\u201d; Poyi Huang: \u201cMutant X Large rRNA and Mirror-Life\u201d", "type": "lab_meeting", "names": ["Nick Guido", "More Fatty", "Poyi Huang", "Large rRNA"], "tags": []}
+{"date": "2012-03-05", "text": "Adam Marblestone \"New methods for storing information in DNA\"; N Eroshenko Recombinamatrix", "type": "lab_meeting", "names": ["Adam Marblestone", "Eroshenko Recombinamatrix"], "tags": []}
+{"date": "2012-03-08", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-03-12", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-03-15", "text": "Microscope Discussion; Xavier Rios \u201chuman genome engineering\u2019", "type": "lab_meeting", "names": ["Microscope Discussion", "Xavier Rios"], "tags": []}
+{"date": "2012-03-19", "text": "No Meeting: Int\u2019l Genetics Conference", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-03-22", "text": "No Meeting: HST 934 Global Medicine 1pm", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-03-26", "text": "No Meeting: SynBERC", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-03-29", "text": "No Meeting: SynBERC", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-04-02", "text": "No Meeting: Spring cleaning (12-1) + lunch party (1-2pm)", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-04-05", "text": "Jay Lee \u201cRNA-FISSEQ\u201d; Art Sun \u201cTowards a General MAGE\u201d", "type": "lab_meeting", "names": ["Jay Lee", "Art Sun"], "tags": []}
+{"date": "2012-04-09", "text": "No Meeting; Genetics Special Seminar: Michael Crickmore, \u201cMating Drive & Duration in Drosophilia (12-1, NRB 350)", "type": "lab_meeting", "names": ["Genetics Special Seminar", "Michael Crickmore"], "tags": ["canceled"]}
+{"date": "2012-04-12", "text": "No Meeting: NHGRI Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-04-16", "text": "Uri Laserson: What the human immune system is thinking (12-1)", "type": "lab_meeting", "names": ["Uri Laserson"], "tags": []}
+{"date": "2012-04-19", "text": "Josh Mosberg: \u201cRecombimechanism\u201d; Willie Girald: \u201cNaked-mole rat mitochondrial-nuclear dynamics\u201d", "type": "lab_meeting", "names": ["Josh Mosberg", "Willie Girald"], "tags": []}
+{"date": "2012-04-23", "text": "No Meeting: Genetics 202 lecture", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-04-26", "text": "No Meeting: Systems Bio Symposium", "type": "lab_meeting", "names": ["Bio Symposium"], "tags": ["canceled"]}
+{"date": "2012-04-30", "text": "No Meeting: NAS/Sigma Aldrich", "type": "lab_meeting", "names": ["Aldrich"], "tags": ["canceled"]}
+{"date": "2012-05-03", "text": "No Meeting: NAS/Sigma Aldrich", "type": "lab_meeting", "names": ["Aldrich"], "tags": ["canceled"]}
+{"date": "2012-05-07", "text": "Adrian Briggs \u201cA TALE of magic beads\u201d; Raj Chari", "type": "lab_meeting", "names": ["Raj Chari"], "tags": []}
+{"date": "2012-05-10", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-05-14", "text": "Susan Byrne \u201cGenerating Targeted Gene Replacements with Sequence-specific Nucleases\u201d; Joyce Yang", "type": "lab_meeting", "names": ["Susan Byrne", "Joyce Yang"], "tags": []}
+{"date": "2012-05-17", "text": "Nathan Lewis (12-1)", "type": "lab_meeting", "names": ["Nathan Lewis"], "tags": []}
+{"date": "2012-05-21", "text": "VISITOR: Marcus Noyes \u201cPCR-mediated cassette mutagenesis for protein engineering: Bigger libraries, better zinc fingers\u201d; Graham Rockwell", "type": "lab_meeting", "names": ["Marcus Noyes", "Graham Rockwell"], "tags": ["guest"]}
+{"date": "2012-05-24", "text": "Mike Sismour \u201cThank you for not clapping\u201d; Joe Davis", "type": "lab_meeting", "names": ["Mike Sismour", "Joe Davis"], "tags": []}
+{"date": "2012-05-28", "text": "No meeting: Memorial Day", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-05-31", "text": "Guest Speaker: Alfonso Jaramillo \u201cDe novo design of small RNA circuits in E. coli\u201d; Yoav Mayshar", "type": "lab_meeting", "names": ["Guest Speaker", "Alfonso Jaramillo", "Yoav Mayshar"], "tags": ["guest"]}
+{"date": "2012-06-04", "text": "No meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-06-07", "text": "VISITOR: Noah Davidsohn \u201cPredictive Composition of genetic circuits in mammalian cells\u201d; Dan Goodman: \u201cChip-Based Synthesis and High-Throughput Measurement of Regulatory Elements in E. coli\u201d", "type": "lab_meeting", "names": ["Noah Davidsohn", "Dan Goodman"], "tags": ["guest"]}
+{"date": "2012-06-11", "text": "No Meeting: NCI Think Tank, Washington DC", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-06-14", "text": "Sri Kosuri; Marc Guell", "type": "lab_meeting", "names": ["Sri Kosuri", "Marc Guell"], "tags": []}
+{"date": "2012-06-18", "text": "Charles Fracchia (12-1)", "type": "lab_meeting", "names": ["Charles Fracchia"], "tags": []}
+{"date": "2012-06-21", "text": "(Room 350) Dan Mandell \u201cConstructive Instability\u201d; VISITOR: Ben Stranges \"Computational design of beta-strand mediated protein interactions\" (Group meeting w/ Silver Lab)", "type": "lab_meeting", "names": ["Dan Mandell", "Silver Lab"], "tags": ["guest"]}
+{"date": "2012-06-25", "text": "No Meeting: Sigma Aldrich", "type": "lab_meeting", "names": ["Sigma Aldrich"], "tags": ["canceled"]}
+{"date": "2012-06-28", "text": "Barry Wanner \u201cDesigning, Building, and Testing Robust Optimized Cells (ROCs\u201d; Sara Vassallo \u201cAdventures in Multitasking: Recoding the e.Coli Genome with Marc While Looking Out For 100 People\u201d", "type": "lab_meeting", "names": ["Barry Wanner", "Sara Vassallo", "Marc While Looking Out"], "tags": []}
+{"date": "2012-07-02", "text": "VISITOR: Ari Friedland \u201cEngineering Gene Networks and Longevity in C. elegans\u201d; Vatsan Raman: \"Sensors & sensibility\"", "type": "lab_meeting", "names": ["Ari Friedland", "Networks", "Vatsan Raman"], "tags": ["guest"]}
+{"date": "2012-07-05", "text": "John Aach \u201c(Brief) grant update, \"Cellective imagination,\" haplotyping mind games'; Prashant Mali \u201c'Printing human tissues\u201d", "type": "lab_meeting", "names": ["John Aach"], "tags": []}
+{"date": "2012-07-09", "text": "VISITOR: Shengdong Ke, \u201cHigh throughput genetics (QUEPASA) in the study of pre-mRNA splicing and polyadenylation\u201d; Le Cong \u201cThe TALE Continues - TALE in Action\u201d", "type": "lab_meeting", "names": ["Shengdong Ke", "Le Cong"], "tags": ["guest"]}
+{"date": "2012-07-12", "text": "No Meeting: Calibration Day & 238b room reorganization!", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-07-16", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-07-19", "text": "No Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-07-23", "text": "Ben Novak \u201cPassenger Pigeon: Ecology, Evolution, and the Genome\u201d; MAP: Gabriel Washington, Crystal Roach \u201cFatty Acid Biosensor Optimization\u201d, Stephany Foster", "type": "lab_meeting", "names": ["Ben Novak", "Ecology", "Evolution", "Gabriel Washington", "Stephany Foster"], "tags": []}
+{"date": "2012-07-26", "text": "VISITOR: Ida Pantoja \u201cDynamics of Vertical Transmission of the Bacterial Microbiota and Antibiotic Resistance Genes\u201d", "type": "lab_meeting", "names": ["Ida Pantoja"], "tags": ["guest"]}
+{"date": "2012-07-30", "text": "Francois Vigneault ; MAP: Yewande Oyefolu, Marne Garretson", "type": "lab_meeting", "names": ["Francois Vigneault", "Yewande Oyefolu", "Marne Garretson"], "tags": []}
+{"date": "2012-08-02", "text": "No Meeting: San Francisco", "type": "lab_meeting", "names": ["San Francisco"], "tags": ["canceled"]}
+{"date": "2012-08-06", "text": "No Meeting: San Francisco", "type": "lab_meeting", "names": ["San Francisco"], "tags": ["canceled"]}
+{"date": "2012-08-09", "text": "Brad Zamft ; Group discussion", "type": "lab_meeting", "names": ["Brad Zamft"], "tags": []}
+{"date": "2012-08-13", "text": "Danny Levner ; Anita Chandrahas", "type": "lab_meeting", "names": ["Danny Levner", "Anita Chandrahas"], "tags": []}
+{"date": "2012-08-16", "text": "No Meeting: NIST", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-08-20", "text": "No Meeting: Int\u2019l Conference, Toronto", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-08-23", "text": "No Meeting: Aspen Brain Forum, Aspen CO", "type": "lab_meeting", "names": ["Aspen Brain Forum", "Aspen CO"], "tags": ["canceled"]}
+{"date": "2012-08-27", "text": "VISITOR: Amy Bernard, \u201cNews from the Allen Institute for Brain Science: A brief overview of current and future projects", "type": "lab_meeting", "names": ["Amy Bernard", "Brain Science"], "tags": ["guest"]}
+{"date": "2012-08-30", "text": "No Meeting: Ars Electronica Festival", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-09-03", "text": "No Meeting: Labor Day", "type": "lab_meeting", "names": ["Labor"], "tags": ["canceled"]}
+{"date": "2012-09-06", "text": "Mike Chou, \u201cPersonal Somatic Genomics\u201d", "type": "lab_meeting", "names": ["Mike Chou"], "tags": []}
+{"date": "2012-09-10", "text": "(12-1) Mingjie Dai", "type": "lab_meeting", "names": [], "tags": []}
+{"date": "2012-09-13", "text": "No Meeting: San Francisco", "type": "lab_meeting", "names": ["San Francisco"], "tags": ["canceled"]}
+{"date": "2012-09-17", "text": "No Meeting: Sigma Aldrich", "type": "lab_meeting", "names": ["Sigma Aldrich"], "tags": ["canceled"]}
+{"date": "2012-09-20", "text": "VISITOR: Halil Tekin, \u201cMicroengineered Responsive Platforms for Spatial and Geometrical Control of Multicellular Organizations\u201d; Mike Mee \u201cModulation of metabolite exchange in ecosystems\u201d", "type": "lab_meeting", "names": ["Halil Tekin", "Multicellular Organizations\u201d", "Mike Mee"], "tags": ["guest"]}
+{"date": "2012-09-24", "text": "No Meeting: SynBERC Retreat & PI Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-09-27", "text": "No Meeting: BGI, Philadelphia", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-10-01", "text": "No Meeting: NAE Annual Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-10-04", "text": "No Meeting: New York \u2013 Book Tour Events", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-10-08", "text": "No Meeting: Columbus Day", "type": "lab_meeting", "names": ["Columbus"], "tags": ["canceled"]}
+{"date": "2012-10-11", "text": "No Meeting: Chicago Ideas Week, Chicago", "type": "lab_meeting", "names": ["Chicago Ideas Week"], "tags": ["canceled"]}
+{"date": "2012-10-15", "text": "No Meeting: CEGS, North Carolina", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-10-18", "text": "Chris Gregg; Luhan Yang", "type": "lab_meeting", "names": ["Chris Gregg", "Luhan Yang"], "tags": []}
+{"date": "2012-10-22", "text": "No Meeting: PGP Board Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-10-25", "text": "No Meeting: HMS Genetics Summit @ 11:15", "type": "lab_meeting", "names": ["Genetics Summit"], "tags": ["canceled"]}
+{"date": "2012-10-29", "text": "No Meeting: Book Tour", "type": "lab_meeting", "names": ["Book Tour"], "tags": ["canceled"]}
+{"date": "2012-11-01", "text": "(ROOM CHANGE: NRB 350) VISITOR: Soon gang Choi, \u201cDecoding GnRH pulsatility\u201d; Julie Norville", "type": "lab_meeting", "names": ["Choi", "Julie Norville"], "tags": ["guest"]}
+{"date": "2012-11-05", "text": "No Meeting: IGM Symposium, San Diego", "type": "lab_meeting", "names": ["San Diego"], "tags": ["canceled"]}
+{"date": "2012-11-08", "text": "(ROOM CHANGE: NRB 350) VISITOR: Sukhdeep (Bobby) Sing Dhadwar \u201cOrally administered gene delivery for hemophilia treatment\u201d; Henry Lee", "type": "lab_meeting", "names": ["Bobby", "Henry Lee"], "tags": ["guest"]}
+{"date": "2012-11-12", "text": "No Meeting: Veteran\u2019s day (Observed)", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-11-15", "text": "Nick Conway ; Joe Thakuria", "type": "lab_meeting", "names": ["Nick Conway", "Joe Thakuria"], "tags": []}
+{"date": "2012-11-19", "text": "No Meeting: Wyss Retreat (8am-7pm)", "type": "lab_meeting", "names": ["Wyss Retreat"], "tags": ["canceled"]}
+{"date": "2012-11-22", "text": "No Meeting: Thanksgiving Day", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-11-26", "text": "Stephanie Yaung; Frederic Vignault (did not present)", "type": "lab_meeting", "names": ["Stephanie Yaung", "Frederic Vignault"], "tags": []}
+{"date": "2012-11-29", "text": "Wei Leong Chew; Shahar Alon", "type": "lab_meeting", "names": ["Wei Leong Chew", "Shahar Alon"], "tags": []}
+{"date": "2012-12-03", "text": "Marc Lajoie ; Harris Wang", "type": "lab_meeting", "names": ["Marc Lajoie", "Harris Wang"], "tags": []}
+{"date": "2012-12-06", "text": "(ROOM CHANGE: NRB 350) VISITOR: Jeehae Park, \u201cDynamics of DNA motor protein studied using Single-molecule FRET \u201d ; Jun Li", "type": "lab_meeting", "names": ["Jeehae Park", "Jun Li"], "tags": ["guest"]}
+{"date": "2012-12-10", "text": "No Meeting: Sigma Aldrich", "type": "lab_meeting", "names": ["Sigma Aldrich"], "tags": ["canceled"]}
+{"date": "2012-12-13", "text": "(12-1pm) Evan Daugharthy ; Genetics Department Holiday, NRB 350 (1-2pm)", "type": "lab_meeting", "names": ["Evan Daugharthy"], "tags": ["canceled"]}
+{"date": "2012-12-17", "text": "Michael Napolitano; Dmitry Ter-Ovanesyan", "type": "lab_meeting", "names": ["Michael Napolitano", "Dmitry"], "tags": []}
+{"date": "2012-12-20", "text": "(ROOM CHANGE: NRB 350) LiangCai Gu ; Noah Taylor", "type": "lab_meeting", "names": ["Noah Taylor"], "tags": []}
+{"date": "2012-12-24", "text": "No Meeting: Winter Recess", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-12-27", "text": "No Meeting: Winter Recess", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2012-12-31", "text": "No Meeting: Winter Recess", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-01-03", "text": "No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-01-06", "text": "no lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-01-10", "text": "Xavier Rios \"Human MAGE\u201d", "type": "lab_meeting", "names": ["Xavier Rios", "Human"], "tags": []}
+{"date": "2011-01-13", "text": "No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-01-17", "text": "No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-01-20", "text": "No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-01-24", "text": "Dept seminar - Kirk Lohmueller, 12-1pm, NRB 350; Lab meeting -1-2pm, NRB 258, Daniel Santillano:\"Funct Redundancy of Deep Sea Microbes\u201d", "type": "lab_meeting", "names": ["Kirk Lohmueller", "Daniel Santillano", "Funct Redundancy", "Deep Sea"], "tags": []}
+{"date": "2011-01-27", "text": "Uri Laserson \"Impersonal Immunomes\"; Jong Kim: \u201cMobility inside or across genomes\u201d", "type": "lab_meeting", "names": ["Uri Laserson", "Jong Kim"], "tags": []}
+{"date": "2011-01-31", "text": "Nick Guido: \"Sensing fat\"; John Aach: Group discussion- DOE grant", "type": "lab_meeting", "names": ["Nick Guido", "John Aach", "Group"], "tags": []}
+{"date": "2011-02-03", "text": "No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-02-07", "text": "No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-02-10", "text": "Tara Gianoulis \"Impossible Nanomaterials made easy\"; Jaron Mercer \"Nanobots vs RE.coli\"", "type": "lab_meeting", "names": ["Tara Gianoulis", "Jaron Mercer"], "tags": []}
+{"date": "2011-02-14", "text": "Jeantine Lunshof \u2013 Ethics; Nikolai Eroshenko \"Neurosynbio and Ni.coli\u201d", "type": "lab_meeting", "names": ["Jeantine Lunshof", "Nikolai Eroshenko"], "tags": []}
+{"date": "2011-02-17", "text": "Joe Thakuria \"Skip West to Oz\"; Mike Sismour \"Improving Nature (Arg)\"", "type": "lab_meeting", "names": ["Joe Thakuria", "Skip West", "Mike Sismour"], "tags": []}
+{"date": "2011-02-21", "text": "Holiday", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-02-24", "text": "No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-02-28", "text": "HMS Genetics Dept retreat", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-03-03", "text": "No lab meeting: HST 934 lecture, 1-3pm, TMEC 250", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-03-07", "text": "Visitor: Dan Mandell: \u201cBackbone Flexibility in Computational Protein Design\"; Graham Rockwell \"FadR than fat\"", "type": "lab_meeting", "names": ["Dan Mandell", "Graham Rockwell"], "tags": ["guest"]}
+{"date": "2011-03-10", "text": "Will Girald-Rosa: \"Combined Gene Therapy Against Gliomas\"; Nathan Lewis: \u201c Giving mechanisms to'omic data\u201d", "type": "lab_meeting", "names": ["Will", "Nathan Lewis"], "tags": []}
+{"date": "2011-03-14", "text": "No lab meeting: Forum on Microbial Threats", "type": "lab_meeting", "names": ["Microbial Threats"], "tags": ["canceled"]}
+{"date": "2011-03-17", "text": "No lab meeting: HUGO Human Genome Meeting 2011", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-03-21", "text": "No lab meeting: SynBERC retreat", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-03-24", "text": "No lab meeting: SynBERC retreat", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-03-28", "text": "Tyler Gibson: \"Control of the mitotic cleavage plane by local epith topol. \u201d; F Vigneault: \"Heavy and light\"", "type": "lab_meeting", "names": ["Tyler Gibson"], "tags": []}
+{"date": "2011-03-31", "text": "Joe Davis \"The Diamond Age\"; Daniel Goodman \"The Splice Code\"", "type": "lab_meeting", "names": ["Joe Davis", "Daniel Goodman"], "tags": []}
+{"date": "2011-04-04", "text": "No lab meeting: NHGRI Seq Tech Grantee meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-04-07", "text": "Lab Spring cleaning, NRB 232 & 238", "type": "lab_meeting", "names": ["Lab Spring"], "tags": []}
+{"date": "2011-04-11", "text": "No lab meeting: DOE Bioenergy Program Meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-04-14", "text": "LiangCai Gu \"Arrays of Synthesis\"; Daniel Levner \"Pocket Sepsis Scope\"", "type": "lab_meeting", "names": ["Daniel Levner", "Pocket Sepsis Scope"], "tags": []}
+{"date": "2011-04-18", "text": "Sri Kosuri \"Refactoring Essentia coli \"; Joyce Yang \"Insatiable in situs\"", "type": "lab_meeting", "names": ["Sri Kosuri", "Joyce Yang"], "tags": []}
+{"date": "2011-04-21", "text": "Michael Mee \"Multiplex Ecoli Ecosystems\"; Alex Sungaroff \"Absolut Translation\"", "type": "lab_meeting", "names": ["Michael Mee", "Multiplex Ecoli Ecosystems", "Alex Sungaroff", "Absolut Translation"], "tags": []}
+{"date": "2011-04-25", "text": "Harris Wang \"Syntrophy and Gutrophy\"; Luhan Yang \"Animated Deamination\"", "type": "lab_meeting", "names": ["Harris Wang", "Syntrophy", "Luhan Yang"], "tags": []}
+{"date": "2011-04-28", "text": "Nathan Billings Defense Seminar, 9:00 am, NRB 350; Visitor", "type": "lab_meeting", "names": ["Nathan Billings Defense Seminar"], "tags": ["guest"]}
+{"date": "2011-05-02", "text": "No lab meeting: Sigma-Aldrich, Inc.", "type": "lab_meeting", "names": ["Inc"], "tags": ["canceled"]}
+{"date": "2011-05-05", "text": "Sara Vassallo \"The heart of the lab\"; Marc Lajoie \"Codon Liberation, re-Tyr-ing key regime residues\"", "type": "lab_meeting", "names": ["Sara Vassallo", "Marc Lajoie", "Codon Liberation"], "tags": []}
+{"date": "2011-05-09", "text": "Michael Chou: \"Somatic neuromutations\u201d; Wyss Symposium", "type": "lab_meeting", "names": ["Michael Chou", "Wyss Symposium"], "tags": []}
+{"date": "2011-05-12", "text": "Shawn Douglas: \"Nanobot shapeshifters\"; Jay Lee: \"From Stem to System\"", "type": "lab_meeting", "names": ["Shawn Douglas", "Jay Lee", "Stem"], "tags": []}
+{"date": "2011-05-16", "text": "No lab meeting: 10th Annual ISB Symposium", "type": "lab_meeting", "names": ["Annual ISB Symposium"], "tags": ["canceled"]}
+{"date": "2011-05-19", "text": "George and Ting: \u201cBind and Snap\u201d", "type": "lab_meeting", "names": ["George"], "tags": []}
+{"date": "2011-05-23", "text": "No meeting: Stakeholder Summit -The Future of Pathology in Personalized Medicine", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-05-26", "text": "Visitor: Henry Lee: \"Bacterial charity work leads to population-wide resistance\"", "type": "lab_meeting", "names": ["Henry Lee"], "tags": ["guest"]}
+{"date": "2011-05-30", "text": "No lab meeting: Memorial Day", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-06-02", "text": "Ido Bachelet: \"The swarm\" ; Andy Tolonen: \"Genergy\u201d", "type": "lab_meeting", "names": ["Ido Bachelet", "Andy Tolonen"], "tags": []}
+{"date": "2011-06-06", "text": "*Wyss 521* Athanasios Zovoilis: \u201c Browsing the non-coding: Decoding aging\u201d", "type": "lab_meeting", "names": [], "tags": []}
+{"date": "2011-06-09", "text": "*NRB 258* Chao Li \"Rolony rhapsody\"; V Busskamp: \"Genetic Reactiv of Cone Photoreceptors\u2026\"", "type": "lab_meeting", "names": ["Rolony"], "tags": []}
+{"date": "2011-06-13", "text": "No lab meeting: Sigma Aldrich", "type": "lab_meeting", "names": ["Sigma Aldrich"], "tags": ["canceled"]}
+{"date": "2011-06-16", "text": "No lab meeting: Synthetic Biology (SB5.0)", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-06-20", "text": "No lab meeting: Pathogenica SAB", "type": "lab_meeting", "names": ["Pathogenica SAB"], "tags": ["canceled"]}
+{"date": "2011-06-23", "text": "Julie Norville: \u201cModular Design of Biological Systems\u201d; Adam Marblestone:\"Really Big DNAnosaurs\u201d", "type": "lab_meeting", "names": ["Julie Norville", "Adam Marblestone", "Really Big"], "tags": []}
+{"date": "2011-06-27", "text": "Wyss 521 K Robasky \"Diogenes & the true base\"; Joe Davis \u201cParadox and Palimpsest & the Search for Extraterrestrial Intelligence\u201d", "type": "lab_meeting", "names": ["Joe Davis"], "tags": []}
+{"date": "2011-06-30", "text": "NRB 258 Stephanie Yaung community organizing : getting (our) bacteria to share; Madeleine Price Ball Transparent genomics", "type": "lab_meeting", "names": ["Stephanie Yaung", "Madeleine Price Ball"], "tags": []}
+{"date": "2011-07-04", "text": "No lab meeting-holiday", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-07-07", "text": "NRB 258 Jun Li \"Ribosomes making ribosomes\"; Josh Mosberg \"Invasion of the Gene-snatchers\"", "type": "lab_meeting", "names": ["Josh Mosberg"], "tags": []}
+{"date": "2011-07-11", "text": "Wyss 521 Sasha Zaranek Freegol Whole Genomes; Po-Yi Huang rRNA libraries and mirror AA assays", "type": "lab_meeting", "names": ["Sasha Zaranek Freegol Whole Genomes", "Huang rRNA"], "tags": []}
+{"date": "2011-07-14", "text": "NRB 258 Nick Guido Fat Fast Fued ; Adrian Briggs Compotent Cells", "type": "lab_meeting", "names": ["Nick Guido Fat Fast Fued", "Adrian Briggs"], "tags": []}
+{"date": "2011-07-18", "text": "No lab meeting: DOE Workshop", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-07-21", "text": "NRB 258 Tara Gianoulis Dihydrogen-Monoxide catalysis", "type": "lab_meeting", "names": [], "tags": []}
+{"date": "2011-07-25", "text": "Wyss 521 Uri Laserson Anti-libraries; MAP: Gabriel Washington, Christopher Guzman, Jessica Williams", "type": "lab_meeting", "names": ["Laserson", "Gabriel Washington", "Christopher Guzman", "Jessica Williams"], "tags": []}
+{"date": "2011-07-28", "text": "No Lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-08-01", "text": "Wyss 521 Nikolai Eroshenko Targetases; MAP: Shanice Oquin, Camila Camancho, Andrew Tadros", "type": "lab_meeting", "names": ["Nikolai Eroshenko Targetases", "Camila Camancho", "Andrew Tadros"], "tags": []}
+{"date": "2011-08-04", "text": "NRB 258 George Church-\"Journal's Journey & Tinker's Tale\"", "type": "lab_meeting", "names": ["George", "Journal", "Tinker"], "tags": []}
+{"date": "2011-08-08", "text": "No lab meeting: Sigma-Aldrich", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-08-11", "text": "No lab meeting Biology of Aging Colloquium", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-08-15", "text": "Wyss 521 Xavier Rios Toxicoligos; Visitor: Venky Sound: 'How do Biomolecules Age? - An Avatar Perspective'", "type": "lab_meeting", "names": ["Venky Sound", "Biomolecules Age"], "tags": ["guest"]}
+{"date": "2011-08-18", "text": "NRB 258 Mike Sismour 4-esent; Susan Byrne inducing mammalian somatic double crossovers", "type": "lab_meeting", "names": ["Mike Sismour", "Susan Byrne"], "tags": []}
+{"date": "2011-08-22", "text": "Wyss 521 Jay Lee multiplex in situ scaffolding; Raj Chari", "type": "lab_meeting", "names": ["Raj Chari"], "tags": []}
+{"date": "2011-08-25", "text": "NRB 258 Graham Rockwell lipid and dNMP pathways;", "type": "lab_meeting", "names": ["Rockwell"], "tags": []}
+{"date": "2011-08-29", "text": "Wyss 521 No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-09-01", "text": "NRB 258 No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-09-05", "text": "Labor Day: No lab meeting", "type": "lab_meeting", "names": ["Labor"], "tags": ["canceled"]}
+{"date": "2011-09-08", "text": "NRB 258 Visitor : Brad Zamft: \"Single Molecule & Synth. Biol. Studies of Transcription.\"; Joe Thakuria How we will interpret 500 full genomes?", "type": "lab_meeting", "names": ["Brad Zamft", "Synth", "Joe Thakuria"], "tags": ["guest"]}
+{"date": "2011-09-12", "text": "No lab meeting: Allen Inst & Kavli Foundation, London", "type": "lab_meeting", "names": ["Allen Inst", "Kavli Foundation"], "tags": ["canceled"]}
+{"date": "2011-09-15", "text": "No lab meeting: Engelberg Symposium, Zurich", "type": "lab_meeting", "names": ["Engelberg Symposium", "Zurich"], "tags": ["canceled"]}
+{"date": "2011-09-19", "text": "Daniel Goodman Genomically Engineered Machines; Marc Guell Mega-Macrolides", "type": "lab_meeting", "names": ["Daniel Goodman Genomically Engineered Machines", "Marc Guell"], "tags": []}
+{"date": "2011-09-22", "text": "No lab meeting: SAB Complete Genomics, Mountain View", "type": "lab_meeting", "names": ["Mountain View"], "tags": ["canceled"]}
+{"date": "2011-09-26", "text": "Sri Kosuri Dev-eloping regulatory libraries ; Prashant Mali Printing human tissues", "type": "lab_meeting", "names": ["Sri Kosuri"], "tags": []}
+{"date": "2011-09-29", "text": "Harris Wang Cheating Cheaters; Francois Vigneault Ink-jet-set", "type": "lab_meeting", "names": ["Harris Wang Cheating Cheaters", "Francois Vigneault"], "tags": []}
+{"date": "2011-10-03", "text": "George Church Lab discussion.", "type": "lab_meeting", "names": ["George Church Lab"], "tags": []}
+{"date": "2011-10-06", "text": "Luhan Yang TAL & ZnF deaminases; Le Cong reTALEcombinase", "type": "lab_meeting", "names": ["Luhan Yang", "Le Cong"], "tags": []}
+{"date": "2011-10-10", "text": "Columbus Day", "type": "lab_meeting", "names": ["Columbus"], "tags": []}
+{"date": "2011-10-13", "text": "John Aach; Visitor: Alex Chavez: \u201cNovel Roles for the SMC5/6 Complex and the DNA Helicase MPH1 in Template Switch Recombination\u201d", "type": "lab_meeting", "names": ["John Aach", "Alex Chavez"], "tags": ["guest"]}
+{"date": "2011-10-17", "text": "Frederic Vigneault Polonator 3: The rise of the Machines (in super-resolution); Mike Mee Eco-nomics", "type": "lab_meeting", "names": ["Frederic Vigneault", "Mike Mee"], "tags": []}
+{"date": "2011-10-20", "text": "No meeting: CEGS/MAP meeting, Boston", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-10-24", "text": "Daniel Levner; Andy Tolonen", "type": "lab_meeting", "names": ["Daniel Levner", "Andy Tolonen"], "tags": []}
+{"date": "2011-10-27", "text": "No meeting; 23andme SAB", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-10-31", "text": "Equipment discussion; LiangCai Gu", "type": "lab_meeting", "names": [], "tags": []}
+{"date": "2011-11-03", "text": "No meeting: ASU CEGS Applicant Interview", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-11-07", "text": "No meeting: Sigma-Aldrich", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-11-10", "text": "No meeting: Inst. for Genomics & Systems Biology lecture, Univ. Chicago", "type": "lab_meeting", "names": ["Systems Biology"], "tags": ["canceled"]}
+{"date": "2011-11-14", "text": "No meeting: Harvard-Longwood Combined Pathology Grand Rounds Series", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-11-17", "text": "Visitor: Robert Valenzuela: \u201cHuman pigmentation as a model for complex traits\u201d; Noah Taylor", "type": "lab_meeting", "names": ["Robert Valenzuela", "Noah Taylor"], "tags": ["guest"]}
+{"date": "2011-11-21", "text": "No meeting: Wyss 3 rd annual retreat", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-11-24", "text": "No meeting: Thanksgiving", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-11-28", "text": "Wei Leong Chew Chromosomechanics", "type": "lab_meeting", "names": ["Wei Leong Chew Chromosomechanics"], "tags": []}
+{"date": "2011-12-01", "text": "No meeting: Therapeutic Area Partnerships Mtg.", "type": "lab_meeting", "names": ["Area Partnerships Mtg"], "tags": ["canceled"]}
+{"date": "2011-12-05", "text": "Visitor: Javier F. Juarez: \"New genetic circuits and catabolic pathways in aromatic-degrading bacteria\".", "type": "lab_meeting", "names": ["Javier F. Juarez"], "tags": ["guest"]}
+{"date": "2011-12-08", "text": "No meeting: Systems Biology Student Symposiums", "type": "lab_meeting", "names": ["Biology Student Symposiums"], "tags": ["canceled"]}
+{"date": "2011-12-12", "text": "Visitor: Danny Zeevi: \u201c From sequence to expression - Reading the promoters of ribosomal protein genes\u201d ; Jamie Rogers", "type": "lab_meeting", "names": ["Danny Zeevi", "Jamie Rogers"], "tags": ["guest"]}
+{"date": "2011-12-15", "text": "No meeting: Genetics Department holiday potluck", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-12-19", "text": "Chris Gregg; Alex Sungaroff Novel defined sequence polymers", "type": "lab_meeting", "names": ["Chris Gregg", "Alex Sungaroff Novel"], "tags": []}
+{"date": "2011-12-22", "text": "No meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-12-26", "text": "No meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2011-12-29", "text": "No meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-01-04", "text": "No lab meeting: Dissertation - Abraham Rosenbaum, 10-1pm, NRB 330, party 1pm, NRB 258", "type": "lab_meeting", "names": ["Abraham Rosenbaum"], "tags": ["canceled"]}
+{"date": "2010-01-07", "text": "Srivatsan Raman Design and Evolution of Sensor-Selectors", "type": "lab_meeting", "names": ["Srivatsan Raman Design"], "tags": []}
+{"date": "2010-01-11", "text": "Michael Chou: \u201cMutations in Conserved Motifs\u201d", "type": "lab_meeting", "names": ["Michael Chou"], "tags": []}
+{"date": "2010-01-12", "text": "Wyss Biomenergy journal club , 12-1pm, HIM 1031", "type": "lab_meeting", "names": ["Wyss Biomenergy"], "tags": []}
+{"date": "2010-01-14", "text": "Chuanfei Yu Naked Mole Rat Genomics", "type": "lab_meeting", "names": ["Chuanfei Yu Naked Mole Rat Genomics"], "tags": []}
+{"date": "2010-01-18", "text": "Holiday", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-01-19", "text": "Wyss Biomaterials evolution , 12-1pm, HIM 1031 (Mike Super)", "type": "lab_meeting", "names": ["Mike Super"], "tags": []}
+{"date": "2010-01-21", "text": "No lab meeting: visit to Stanford", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-01-25", "text": "No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-01-28", "text": "Morten Sommer Kryptonite for super-resistant microbes", "type": "lab_meeting", "names": ["Morten Sommer Kryptonite"], "tags": []}
+{"date": "2010-02-01", "text": "No lab meeting: Dept Seminar, Scott Lowe, 12-1pm, NRB 350", "type": "lab_meeting", "names": ["Scott Lowe"], "tags": ["canceled"]}
+{"date": "2010-02-04", "text": "No lab meeting: Next-Generation Sequencing Workshop, Broad Institute", "type": "lab_meeting", "names": ["Broad Institute"], "tags": ["canceled"]}
+{"date": "2010-02-11", "text": "No lab meeting: TED conference ; NCI/NIGMS Synthetic Biology workshop", "type": "lab_meeting", "names": ["Synthetic Biology"], "tags": ["canceled"]}
+{"date": "2010-02-15", "text": "No lab meeting: Holiday", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-02-18", "text": "Graham Rockwell \u201cLighting the path to Energy Independence\u201d", "type": "lab_meeting", "names": ["Graham Rockwell", "Energy"], "tags": []}
+{"date": "2010-02-22", "text": "Song Yi, \"Mol reg circuits in a human pathogen provide insights into the evol of signal trans \u2026", "type": "lab_meeting", "names": ["Song Yi"], "tags": []}
+{"date": "2010-02-25", "text": "Tara Gianoulis The March of the Penguins and Synthetic Ecosystems", "type": "lab_meeting", "names": ["Tara Gianoulis The March"], "tags": []}
+{"date": "2010-03-01", "text": "No lab meeting: SynBERC retreat ; Genetics Department Retreat", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-03-04", "text": "No lab meeting: BER \u2013\u201cLong Term Vision\u201d workshop, Washington DC.", "type": "lab_meeting", "names": ["Term"], "tags": ["canceled"]}
+{"date": "2010-03-08", "text": "No Lab meeting: NHGRI Sequencing Technology Development Grantee Meeting ; Special seminar", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-03-11", "text": "No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-03-15", "text": "Marc Lajoie Wanted: Highly Competent Genome Engineers", "type": "lab_meeting", "names": ["Marc Lajoie Wanted", "Highly Competent Genome"], "tags": []}
+{"date": "2010-03-18", "text": "Visiting speaker: Adrian Carson: \" Evolution of Duplications within Mammalian Genomes\"", "type": "lab_meeting", "names": ["Adrian Carson", "Mammalian Genomes"], "tags": ["guest"]}
+{"date": "2010-03-22", "text": "lab meeting cancelled", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-03-25", "text": "Jun Li: Pure translation: ribosomes making ribosomes", "type": "lab_meeting", "names": ["Jun Li"], "tags": []}
+{"date": "2010-04-01", "text": "No lab meeting: HST lecture, 1-3pm, MEC 250", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-04-05", "text": "Huang Po-Yi: Toward Synthetic and Mirror Ribosomes ; Special seminar, 4-5pm, NRB 350", "type": "lab_meeting", "names": ["Huang", "Toward Synthetic", "Mirror Ribosomes"], "tags": []}
+{"date": "2010-04-08", "text": "Special seminar, Jeffrey Barrick , MGH Simches 2", "type": "lab_meeting", "names": ["Jeffrey Barrick"], "tags": []}
+{"date": "2010-04-12", "text": "No lab meeting: NCI/NIGMS Synthetic Biology workshop", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-04-15", "text": "No lab meeting: Madeleine Price Ball defense 11-2pm", "type": "lab_meeting", "names": ["Madeleine Price Ball"], "tags": ["canceled"]}
+{"date": "2010-04-19", "text": "Visiting candidate: Marc Guell, \" Transcriptome Complexity in a Genome-Reduced Bacterium\"", "type": "lab_meeting", "names": ["Marc Guell"], "tags": ["guest"]}
+{"date": "2010-04-22", "text": "No Lab meeting: Whitehead Spring Lecture Series", "type": "lab_meeting", "names": ["Whitehead Spring Lecture Series"], "tags": ["canceled"]}
+{"date": "2010-04-26", "text": "No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-04-29", "text": "No Lab meeting: Zinc Finger Nuclease Technology: \u201cThe science and the business\u201d", "type": "lab_meeting", "names": ["Zinc Finger Nuclease Technology"], "tags": ["canceled"]}
+{"date": "2010-05-03", "text": "No Lab meeting: Sigma- Aldrich ,Inc .", "type": "lab_meeting", "names": ["Aldrich", "Inc"], "tags": ["canceled"]}
+{"date": "2010-05-06", "text": "Harris Wang-defense: Cannon Rm114, Bldg C; exam Folin Wu (Bldg. C, Rm 115); seminar 11am, NRB350", "type": "lab_meeting", "names": ["Cannon Rm114", "Bldg", "Folin Wu"], "tags": []}
+{"date": "2010-05-10", "text": "Steve Perrault, talk: \u201cOptimizing Nanoparticle Design for Improved Tumor Targeting\u201d", "type": "lab_meeting", "names": ["Steve Perrault", "Improved Tumor"], "tags": []}
+{"date": "2010-05-13", "text": "Nikolai Eroshenko: \u201cTo err is chemistry, to correct, enzyme\u201d", "type": "lab_meeting", "names": ["Nikolai Eroshenko"], "tags": []}
+{"date": "2010-05-17", "text": "LiangCai Gu : \u201cSecondary metabolites: Found in translation\u201d", "type": "lab_meeting", "names": [], "tags": []}
+{"date": "2010-05-20", "text": "No lab meeting: Days of Molecular Medicine 2010", "type": "lab_meeting", "names": ["Molecular Medicine"], "tags": ["canceled"]}
+{"date": "2010-05-24", "text": "Ido Bachelet: \u201cPersonal Mini- Immunome \u201d", "type": "lab_meeting", "names": ["Ido Bachelet", "Immunome"], "tags": []}
+{"date": "2010-05-27", "text": "", "type": "lab_meeting", "names": [], "tags": []}
+{"date": "2010-05-31", "text": "Holiday: Memorial Day", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-06-03", "text": "No lab meeting: The World Science Festival ; Consumer Genetics Conference", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-06-07", "text": "No lab meeting: FASEB", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-06-10", "text": "No lab meeting: FASEB", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-06-14", "text": "\u201cGroup discussion\u201d - recombineering ; WYSS, Rm 521", "type": "lab_meeting", "names": [], "tags": []}
+{"date": "2010-06-17", "text": "No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-06-21", "text": "Neville Sanjana , talk: \u201cAxon trajectories and RNA editing in neurons\u201d, WYSS Rm521", "type": "lab_meeting", "names": ["Neville Sanjana"], "tags": []}
+{"date": "2010-06-24", "text": "No lab meeting: FOCIS 2010", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-06-28", "text": "No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-07-01", "text": "No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-07-05", "text": "Independence Day", "type": "lab_meeting", "names": [], "tags": []}
+{"date": "2010-07-08", "text": "No lab meeting; \u201cPlanning the Future of Genomics\u201d", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-07-12", "text": "\u201cGroup discussion\u201d \u2013 bioenergy /Carbon, Wyss 521", "type": "lab_meeting", "names": [], "tags": []}
+{"date": "2010-07-15", "text": "Visiting speaker: Raj Chari", "type": "lab_meeting", "names": ["Raj Chari"], "tags": ["guest"]}
+{"date": "2010-07-19", "text": "visitor: Laura Walker \u201c Defining novel HIV-specific Broadly Neutralizing Antibodies \u201d", "type": "lab_meeting", "names": ["Laura Walker", "Broadly Neutralizing"], "tags": ["guest"]}
+{"date": "2010-07-22", "text": "Xavier Rios \u2013 \u201cHuman MAGE\u201d; Uri Laserson \u2013 \u201cVaccination sequenation \u201d, 12-2pm, NRB 258", "type": "lab_meeting", "names": ["Xavier Rios", "Uri Laserson"], "tags": []}
+{"date": "2010-07-26", "text": "No lab meeting: Genomatica ,Inc .", "type": "lab_meeting", "names": ["Inc"], "tags": ["canceled"]}
+{"date": "2010-07-29", "text": "No lab meeting: Allen Institute workshop", "type": "lab_meeting", "names": ["Allen Institute"], "tags": ["canceled"]}
+{"date": "2010-08-02", "text": "Jay Lee: \u201cSemi-synthetic human populations at 1000 per sq cm\u201d", "type": "lab_meeting", "names": ["Jay Lee"], "tags": []}
+{"date": "2010-08-05", "text": "Nick Guido \u2013 \u201cMaximizing Fa \u201d; Show Wong (Merck KGaA )", "type": "lab_meeting", "names": ["Nick Guido", "Show Wong"], "tags": []}
+{"date": "2010-08-09", "text": "No lab meeting: Sigma- Aldrich ,Inc .", "type": "lab_meeting", "names": ["Aldrich", "Inc"], "tags": ["canceled"]}
+{"date": "2010-08-12", "text": "No lab meeting: EMF Ellison Ageing Colloquium", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-08-16", "text": "Andy Tolonen : \u201cQ: Whither cellulose\u201d", "type": "lab_meeting", "names": ["Andy Tolonen", "Whither"], "tags": []}
+{"date": "2010-08-19", "text": "Mike Sismour \u201cI/O: at the inorganic/organic interface\u201d", "type": "lab_meeting", "names": ["Mike Sismour"], "tags": []}
+{"date": "2010-08-23", "text": "Chris Gregg", "type": "lab_meeting", "names": ["Chris Gregg"], "tags": []}
+{"date": "2010-08-26", "text": "No lab meeting: NextGenerationDx conference", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-08-30", "text": "Visitor: Xinglong Wang, \"Impaired balance of mitochondrial fission and fusion in Alzheimer's disease\"", "type": "lab_meeting", "names": ["Xinglong Wang"], "tags": ["guest"]}
+{"date": "2010-09-02", "text": "Daniel Levner : \u201c Nanometrics \u201d; Francois Vigneault: \u201cHeavy plus Light Immunomes \u201d", "type": "lab_meeting", "names": ["Daniel Levner", "Francois Vigneault", "Light Immunomes"], "tags": []}
+{"date": "2010-09-06", "text": "Holiday: Labor Day", "type": "lab_meeting", "names": ["Labor"], "tags": ["canceled"]}
+{"date": "2010-09-09", "text": "Shawn Douglas \u2013 \u201cnm2cm and caDNAno \u201d", "type": "lab_meeting", "names": ["Shawn Douglas"], "tags": []}
+{"date": "2010-09-13", "text": "Graham Rockwell \"Opt-in meta-metabolism\"", "type": "lab_meeting", "names": ["Graham Rockwell"], "tags": []}
+{"date": "2010-09-16", "text": "Tara Gianoulis : \" Biolectic Materialism\"; Lee Bitsoi : MAP Program", "type": "lab_meeting", "names": ["Tara Gianoulis", "Lee Bitsoi"], "tags": []}
+{"date": "2010-09-20", "text": "Marc Lajoie \"The Recombinator \"; Harris Wang \"Under new Management\"", "type": "lab_meeting", "names": ["Marc Lajoie", "Harris Wang"], "tags": []}
+{"date": "2010-09-23", "text": "No lab meeting: Steven Hoogendijk Award ceremony", "type": "lab_meeting", "names": ["Steven Hoogendijk Award"], "tags": ["canceled"]}
+{"date": "2010-09-27", "text": "No lab meeting: Biomed 21 symposium", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-09-30", "text": "No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-10-04", "text": "Sri Kosuri: \u201cAgile correction & assembly of megabases \u201d", "type": "lab_meeting", "names": ["Sri Kosuri"], "tags": []}
+{"date": "2010-10-07", "text": "No lab meeting: UMASS medical- seminar", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-10-11", "text": "Columbus Day", "type": "lab_meeting", "names": ["Columbus"], "tags": []}
+{"date": "2010-10-14", "text": ", Po-Yi \" rRNA & the Mirror World\"; Shawn Douglas \u2013 \u201cnm2cm and caDNAno \u201d", "type": "lab_meeting", "names": ["Shawn Douglas"], "tags": []}
+{"date": "2010-10-18", "text": "No lab meeting, NHGRI Site Visit", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-10-21", "text": "Visitor: Manu Prakash; Visitor: Susan Byrne: \"The lysosomal pathway of apoptosis regulates hematopoietic stem cell and memory CD8+ T lymphocyte survival\"", "type": "lab_meeting", "names": ["Manu Prakash", "Susan Byrne"], "tags": ["guest"]}
+{"date": "2010-10-25", "text": "Ido Bachelet; Luhan Yang \u201cGene targeting and gene capture\u201d", "type": "lab_meeting", "names": ["Ido Bachelet", "Luhan Yang"], "tags": []}
+{"date": "2010-10-28", "text": "No lab meeting: CEGS meeting; TEDMED 2010", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-11-01", "text": "Madeleine Price Ball \"GET evidence\"; Sasha Wait: \u201c Exapting exabytes \u201d", "type": "lab_meeting", "names": ["Madeleine Price Ball", "Sasha Wait"], "tags": []}
+{"date": "2010-11-04", "text": "Visitor: Tune Pers: \" Integrative methods to robustly identify systemic patterns\u2026 \" ; Jun Li \"Balancing ribosomal proteins\"", "type": "lab_meeting", "names": ["Jun Li"], "tags": ["guest"]}
+{"date": "2010-11-08", "text": "No lab meeting: Sigma- Aldrich ,Inc ; iGEM Jamboree", "type": "lab_meeting", "names": ["Aldrich"], "tags": ["canceled"]}
+{"date": "2010-11-11", "text": "No lab meeting: Veterans Day", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-11-15", "text": "Visitor: Prashant Mali \"Engineering human cells for cell and gene therapy\"; Maryanne Fenerjian", "type": "lab_meeting", "names": ["Maryanne Fenerjian"], "tags": ["guest"]}
+{"date": "2010-11-18", "text": "Adam Marblestone \"Longest nanorods \"; Jake Beal: \u201cAutomatic Compilation from High-Level Bio-Lang. to Gen Reg Networks\"", "type": "lab_meeting", "names": ["Adam Marblestone", "Jake Beal"], "tags": []}
+{"date": "2010-11-22", "text": "Wyss retreat, 8am-6pm, Intercontinental Hotel, 510 Atlantic Avenue, Boston", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-11-25", "text": "Thanksgiving", "type": "lab_meeting", "names": [], "tags": []}
+{"date": "2010-11-29", "text": "location change - NRB 258 : Joshua Mosberg \"The single helix\"; Adrian Briggs \"Toward engineering human genomes\"", "type": "lab_meeting", "names": ["Joshua Mosberg", "Adrian Briggs", "Toward"], "tags": []}
+{"date": "2010-12-02", "text": "Le Cong \"The dTALEs \", John Aach: \u201cIt's tough to make predictions\u201d", "type": "lab_meeting", "names": ["Le Cong", "John Aach"], "tags": []}
+{"date": "2010-12-06", "text": "Srivatsan Raman: \u201cProtein Sensor Generator of Diversity\u201d", "type": "lab_meeting", "names": ["Srivatsan Raman"], "tags": []}
+{"date": "2010-12-09", "text": "No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-12-13", "text": "Jay Lee: \"Stem cell regenomeration \"; Visitor: Kevin Esvelt CV : \"A System for the Continuous Directed Evol of Biomolecules \"", "type": "lab_meeting", "names": ["Jay Lee", "Kevin Esvelt"], "tags": ["guest"]}
+{"date": "2010-12-16", "text": "Perry Ripa : \u201cSPR Array Technology\u201d ( BioRad )", "type": "lab_meeting", "names": ["Perry Ripa", "Array"], "tags": []}
+{"date": "2010-12-20", "text": "Visitor: Yoav Mayshar CV : \u201cChromosomal Aneuploidy in Induced Pluripotent Stem Cells\u2026 \u201d; Feng Zhang \"Next-gen ( epi )gens\"", "type": "lab_meeting", "names": ["Yoav Mayshar", "Stem", "Feng Zhang"], "tags": ["guest"]}
+{"date": "2010-12-23", "text": "No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-12-27", "text": "No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2010-12-30", "text": "No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-01-01", "text": "Holiday - New Years Day", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-01-05", "text": "Guest Speaker Vineeta Bajaj - Molecular characterization of the SLC22A18AS gene from the imprinted human chromosome segment 11p15.5", "type": "lab_meeting", "names": ["Guest Speaker Vineeta Bajaj"], "tags": ["guest"]}
+{"date": "2009-01-08", "text": "Jehyuk Lee \u00a0 \"Discovering Cis -regulatory Genetic Variants Using Human Induced Pluripotent Stem Cells\"", "type": "lab_meeting", "names": ["Jehyuk Lee", "Stem Cells"], "tags": []}
+{"date": "2009-01-12", "text": "Dae Kim \u00a0 Sequencing by Polymerase", "type": "lab_meeting", "names": ["Dae Kim Sequencing"], "tags": []}
+{"date": "2009-01-15", "text": "No lab meeting: Soma Weiss Assembly at HMS 1:00-2:10 in the TMEC (George Church)", "type": "lab_meeting", "names": ["Soma Weiss Assembly", "George Church"], "tags": ["canceled"]}
+{"date": "2009-01-19", "text": "No lab meeting: Martin Luther King Day", "type": "lab_meeting", "names": ["Martin Luther"], "tags": ["canceled"]}
+{"date": "2009-01-22", "text": "No lab meeting: Cancer TREAT 1000 project, 8-4pm, NRB 258(George Church)", "type": "lab_meeting", "names": ["Cancer", "George Church"], "tags": ["canceled"]}
+{"date": "2009-01-26", "text": "Guest Speaker CHuanfei Yu", "type": "lab_meeting", "names": ["Guest Speaker CHuanfei Yu"], "tags": ["guest"]}
+{"date": "2009-01-29", "text": "***No lab Meeting: Dept Seminar NRB 350 12:00PM Speaker: Ophir Klein \u201cMore is not always better: Genetics regulation of dental morphogenesis and stem cells\u201d (candidate for craniofacial genetics position)", "type": "lab_meeting", "names": ["Seminar", "Ophir Klein"], "tags": ["canceled"]}
+{"date": "2009-02-02", "text": "Morten Sommer Personal Meta- Resistomics", "type": "lab_meeting", "names": ["Morten Sommer Personal"], "tags": []}
+{"date": "2009-02-05", "text": "***No lab meeting: Dept Seminar: Benjamin Allen, NRB 350, 12:00 \"Cell surface regulation of hedgehog signaling during mouse embryogenesis\"", "type": "lab_meeting", "names": ["Benjamin Allen"], "tags": ["canceled"]}
+{"date": "2009-02-09", "text": "Graham Rockwell \u00a0 \u201cLiposuction\u201d", "type": "lab_meeting", "names": ["Graham Rockwell"], "tags": []}
+{"date": "2009-02-12", "text": "*** Dept seminar 12:00 Matthew Harris \"Genetic analysis of variation in adult form: the zebrafish as a model for evolutionary change and human disease,\" NRB 350.", "type": "lab_meeting", "names": ["Matthew Harris"], "tags": []}
+{"date": "2009-02-12", "text": "*** Lab meeting 1:00PM Guest speaker Sriram Kosuri \u201cMeasures and Models of Bacteriophage T7 Gene Expression\u201d", "type": "lab_meeting", "names": ["Sriram Kosuri"], "tags": ["guest"]}
+{"date": "2009-02-16", "text": "No lab meeting : Presidents day", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-02-19", "text": "no lab meeting : IQT Technology Focus Day: Synthetic Biology, Arlington ,Virginia (George Church)", "type": "lab_meeting", "names": ["Arlington", "George Church"], "tags": ["canceled"]}
+{"date": "2009-02-20", "text": "1:30-3 PM CEGS grant planning session NRB room 335", "type": "lab_meeting", "names": [], "tags": []}
+{"date": "2009-02-23", "text": "No lab meeting NSF SynBERC site review, Berkeley , CA (George", "type": "lab_meeting", "names": ["Berkeley", "George"], "tags": ["canceled"]}
+{"date": "2009-02-26", "text": "No lab meeting- NSF SynBERC site review, Berkeley , CA (George", "type": "lab_meeting", "names": ["Berkeley", "George"], "tags": ["canceled"]}
+{"date": "2009-03-02", "text": "Guest Speaker Feng Zhang \u201cReverse-engineering of neural circuits using microbial opsins \"", "type": "lab_meeting", "names": ["Guest Speaker Feng Zhang"], "tags": ["guest"]}
+{"date": "2009-03-05", "text": "Sasha Wait Zaranek- \u201cLessons from the PGP10 ,9,8 \u2026\u201d", "type": "lab_meeting", "names": ["Sasha Wait"], "tags": []}
+{"date": "2009-03-09", "text": "Farren Isaacs: \u201cPulling out the stops\u201d", "type": "lab_meeting", "names": ["Farren Isaacs"], "tags": []}
+{"date": "2009-03-12", "text": "** Time :12:00 Guest Speaker Annette Meredith \u201cFrom drug design to genetic diagnostic\u201d", "type": "lab_meeting", "names": ["Guest Speaker Annette Meredith"], "tags": ["guest"]}
+{"date": "2009-03-16", "text": "No Lab meeting : Charlie Rose and Steve Pinker Interview NY (George Church)", "type": "lab_meeting", "names": ["Charlie Rose", "Steve Pinker Interview NY", "George Church"], "tags": ["canceled"]}
+{"date": "2009-03-19", "text": "John Aach \u201cComputational biology grand challenges\u201d", "type": "lab_meeting", "names": ["John Aach"], "tags": []}
+{"date": "2009-03-23", "text": "No lab meeting : NHGRI Large Scale Sequencing Meeting Bethesda (George Church)", "type": "lab_meeting", "names": ["Large Scale Sequencing Meeting Bethesda", "George Church"], "tags": ["canceled"]}
+{"date": "2009-03-26", "text": "No lab meeting : JGI User Meeting, 25 th -27 th The DOE Joint Genome Institute, Marriott Hotel, Walnut Creek, CA (George Church, March 26th 1:45PM)", "type": "lab_meeting", "names": ["Marriott Hotel", "Walnut Creek", "George Church"], "tags": ["canceled"]}
+{"date": "2009-03-30", "text": "No lab meeting : \u2013 NHGRI grantee meeting, San   Diego (3/29-31 George Church, Kung Zhang)", "type": "lab_meeting", "names": ["San Diego", "George Church", "Kung Zhang"], "tags": ["canceled"]}
+{"date": "2009-04-02", "text": "Guest Speaker Daniel Levner \"Photonic DSPs, cells on their sides and surface-enhanced optics\"", "type": "lab_meeting", "names": ["Guest Speaker", "Daniel Levner"], "tags": ["guest"]}
+{"date": "2009-04-06", "text": "Guest Speaker Tzachi Pilpel \u201cmeasuring and computing\u00a0translation efficiency\u201d", "type": "lab_meeting", "names": ["Guest Speaker Tzachi Pilpel"], "tags": ["guest"]}
+{"date": "2009-04-09", "text": "No lab meeting : See SysCODE & HST class, Introduction to Global Medicine, 1-3 PM, HMS-MEC room 250( George Church)", "type": "lab_meeting", "names": ["See SysCODE", "Global Medicine", "George Church"], "tags": ["canceled"]}
+{"date": "2009-04-13", "text": "No lab meeting : Lab reception for Shawn Douglas dissertation", "type": "lab_meeting", "names": ["Shawn Douglas"], "tags": ["canceled"]}
+{"date": "2009-04-16", "text": "No Lab meeting : EMD & BBC", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-04-20", "text": "Michael Strong \u00a0 MDR & XDR TB resistance mechanisms", "type": "lab_meeting", "names": ["Michael Strong"], "tags": []}
+{"date": "2009-04-23", "text": "Xavier Rios \u201cEfficient allele replacement strategies in human cells", "type": "lab_meeting", "names": ["Xavier Rios"], "tags": []}
+{"date": "2009-04-27", "text": "Gerardo Gonzales \u201cDetection of small RNAs in Bacteria\u201d", "type": "lab_meeting", "names": ["Gerardo Gonzales"], "tags": []}
+{"date": "2009-04-30", "text": "Guest Speaker Joseph Lehar \u201cTesting the limits of Bacterial Robustness\u201d", "type": "lab_meeting", "names": ["Guest Speaker Joseph Lehar"], "tags": ["guest"]}
+{"date": "2009-05-04", "text": "No lab meeting : iPSCs workshop, CSSP and NHLBI meeting (George Church \u2013 3 meetings)", "type": "lab_meeting", "names": ["George Church"], "tags": ["canceled"]}
+{"date": "2009-05-07", "text": "No lab meeting : DMM meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-05-11", "text": "No lab meeting : Northwestern University Silverstein Lecture 11-12 (George Church)", "type": "lab_meeting", "names": ["Silverstein Lecture", "George Church"], "tags": ["canceled"]}
+{"date": "2009-05-14", "text": "Adeyemi Adesokan \u00a0 From global to local genomics", "type": "lab_meeting", "names": ["Adeyemi Adesokan"], "tags": []}
+{"date": "2009-05-18", "text": "No lab meeting : ASM meeting in Philadelphia", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-05-21", "text": "No lab meeting- Colloquium Session, 2009 ASM General Meeting, Philadelphia , May 18-21", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-05-25", "text": "No lab meeting : Memorial Day", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-05-28", "text": "Nicholas Guido Metaboloptimomics", "type": "lab_meeting", "names": ["Nicholas Guido Metaboloptimomics"], "tags": []}
+{"date": "2009-06-01", "text": "Guest Speaker Reut Shalgi \"Coupling transcription and post-transcription regulation in the control of cell fate\"", "type": "lab_meeting", "names": ["Guest Speaker Reut Shalgi"], "tags": ["guest"]}
+{"date": "2009-06-02", "text": "1-3 PM HIM 10: Bioenergy & Wyss BioMatEvol (#1), 12-2pm, HIM 10 (#1): Don Ingber , Jeff Way, George Church and all attending: Discussion of goals", "type": "lab_meeting", "names": ["Wyss BioMatEvol", "Don Ingber", "Jeff Way", "George Church"], "tags": []}
+{"date": "2009-06-04", "text": "Mark Umbarger Caulobacter crescentus Chromosome Conformation Capture Carbon Copy Computation (8C)", "type": "lab_meeting", "names": ["Mark Umbarger Caulobacter", "Chromosome Conformation Capture Carbon Copy"], "tags": []}
+{"date": "2009-06-08", "text": "No lab meeting : HSCI - Wyss PI Think tank", "type": "lab_meeting", "names": ["Wyss PI Think"], "tags": ["canceled"]}
+{"date": "2009-06-11", "text": "No lab meeting : Consumer Genetics Conference", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-06-15", "text": "No lab meeting : In-Person Exome project , Bethesda MD (George Church)", "type": "lab_meeting", "names": ["Bethesda MD", "George Church"], "tags": ["canceled"]}
+{"date": "2009-06-18", "text": "Guest Speaker - Chao Li", "type": "lab_meeting", "names": ["Guest Speaker", "Chao Li"], "tags": ["guest"]}
+{"date": "2009-06-22", "text": "Guest Speaker Benjamin L Kidder Transcriptional networks in embryonic and trophoblast stem cells\"", "type": "lab_meeting", "names": ["Guest Speaker Benjamin"], "tags": ["guest"]}
+{"date": "2009-06-25", "text": "Abraham Rosenbaum Rolony -grids and PGP data", "type": "lab_meeting", "names": ["Abraham Rosenbaum Rolony"], "tags": []}
+{"date": "2009-06-29", "text": "Jin Billy Li \u00a0 \u201cCircling in on our favorite dinucleotide \u201d", "type": "lab_meeting", "names": ["Jin Billy Li"], "tags": []}
+{"date": "2009-06-30", "text": "Noon-2 PM HIM 10: Bioenergy & Wyss BioMatEvol , 12-2pm, HIM 10 (#2): Jay Lee (Church lab) Human Stem Cells; Jeff Way: Antibody engineering", "type": "lab_meeting", "names": ["Wyss BioMatEvol", "Jay Lee", "Human Stem Cells", "Jeff Way"], "tags": []}
+{"date": "2009-07-02", "text": "No lab meeting : CA meetings (George Church)", "type": "lab_meeting", "names": ["George Church"], "tags": ["canceled"]}
+{"date": "2009-07-06", "text": "No lab meeting : CA meetings (George Church)", "type": "lab_meeting", "names": ["George Church"], "tags": ["canceled"]}
+{"date": "2009-07-09", "text": "No lab meeting : Wyss seminar, Pierce Hall, Rm 209, 3pm Phillip Messersmith", "type": "lab_meeting", "names": ["Pierce Hall", "Phillip Messersmith"], "tags": ["canceled"]}
+{"date": "2009-07-13", "text": "No Lab meeting : Genomatica , San Diego", "type": "lab_meeting", "names": ["San Diego"], "tags": ["canceled"]}
+{"date": "2009-07-15", "text": "Noon-2 PM Bioenergy & Wyss BioMatEvol , 12-2pm, HIM 10 (#3): Zeev Waks : Engineered formic acid production in yeast Sri Kosuri (Church lab): Large-scale DNA synthesis", "type": "lab_meeting", "names": ["Wyss BioMatEvol", "Zeev Waks"], "tags": []}
+{"date": "2009-07-16", "text": "George Church lab overview and open discussion", "type": "lab_meeting", "names": ["George Church"], "tags": []}
+{"date": "2009-07-20", "text": "No lab meeting : Gordon Research Conf erence", "type": "lab_meeting", "names": ["Gordon Research Conf"], "tags": ["canceled"]}
+{"date": "2009-07-23", "text": "No lab meeting : GRC Human Genetics & Genomics", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-07-27", "text": "Laurens Kraal \u00a0 Synthetic Biology", "type": "lab_meeting", "names": ["Laurens Kraal Synthetic Biology"], "tags": []}
+{"date": "2009-07-28", "text": "Noon-2 PM HIM 10 Wyss BioMatEvol , 12-2pm, HIM 10 (#4) : Amy Brock ( Ingber lab) Heterogeneity and dynamics in mammalian cell Populations; Hu Li (Collins lab) Network Inference Algorithms: MNI & CLR", "type": "lab_meeting", "names": ["Amy Brock", "Network Inference Algorithms"], "tags": []}
+{"date": "2009-07-30", "text": "No lab meeting : Steenbock Symposium ; Wyss", "type": "lab_meeting", "names": ["Steenbock Symposium", "Wyss"], "tags": ["canceled"]}
+{"date": "2009-08-03", "text": "No lab meeting : The Ellison Medical Foundation Colloquium", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-08-06", "text": "Visiting speaker: Geoffrey von Maltzahn : Nanoparticles that communicate to amplify tumor targeting in vivo", "type": "lab_meeting", "names": ["Geoffrey", "Maltzahn"], "tags": ["guest"]}
+{"date": "2009-08-10", "text": "No lab meeting: Sigma-Aldrich", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-08-11", "text": "Bioenergy & Wyss BioMatEvol , 12-2pm, HIM 10 (#5): Bjorn Hogberg -DNA nanostructres employing type IIS restriction sites", "type": "lab_meeting", "names": ["Wyss BioMatEvol", "Bjorn Hogberg"], "tags": []}
+{"date": "2009-08-13", "text": "No lab meeting: Broad Inst PI meeting", "type": "lab_meeting", "names": ["Broad Inst"], "tags": ["canceled"]}
+{"date": "2009-08-17", "text": "Erez Levanon \u201cEditing of the genomic information\u201d", "type": "lab_meeting", "names": ["Erez Levanon"], "tags": []}
+{"date": "2009-08-20", "text": "No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-08-24", "text": "Amanda Chilaka \u201c Bioenergy Proteomics\u201d", "type": "lab_meeting", "names": ["Amanda Chilaka"], "tags": []}
+{"date": "2009-08-27", "text": "Speaker: Han Cao: \u201cDynamic single molecule analysis using nanochannel array\u201d ( BioNanomatrix , Inc)", "type": "lab_meeting", "names": ["Han Cao", "Inc"], "tags": []}
+{"date": "2009-08-31", "text": "Andrew Tolonen \u201cYou can go home again: retrohoming with programmable introns \u201d", "type": "lab_meeting", "names": ["Andrew Tolonen"], "tags": []}
+{"date": "2009-09-03", "text": "Dan Schwartz \u201cThe viral spread of motif-x\u201d", "type": "lab_meeting", "names": ["Dan Schwartz"], "tags": []}
+{"date": "2009-09-07", "text": "No lab meeting: Labor Day", "type": "lab_meeting", "names": ["Labor"], "tags": ["canceled"]}
+{"date": "2009-09-10", "text": "No lab meeting: UN Biotech meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-09-14", "text": "No Lab meeting: CSH Personal Genomes , SynBERC Retreat", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-09-17", "text": "No Lab meeting: 5 th International DNA Sampling Conference", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-09-21", "text": "Harris Wang \u201cCombinatorial design and selection of genetic codes and metabolic pathways\u201d", "type": "lab_meeting", "names": ["Harris Wang"], "tags": []}
+{"date": "2009-09-24", "text": "Madeleine Price Ball \u201c Epigenomics \u201d", "type": "lab_meeting", "names": ["Madeleine Price Ball"], "tags": []}
+{"date": "2009-09-28", "text": "No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-10-01", "text": "No lab meeting: Life Sciences Research Foundation meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-10-05", "text": "Michael Sismour \u201cLigation and photochemistry\u201d", "type": "lab_meeting", "names": ["Michael Sismour"], "tags": []}
+{"date": "2009-10-06", "text": "NHLBI meeting", "type": "lab_meeting", "names": [], "tags": []}
+{"date": "2009-10-08", "text": "No lab meeting: DARPA Info Chemistry Review meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-10-12", "text": "No lab meeting: Columbus Day ; 17 th Annual Microbial Genomics Conference", "type": "lab_meeting", "names": ["Columbus", "Annual Microbial Genomics Conference"], "tags": ["canceled"]}
+{"date": "2009-10-15", "text": "No Lab meeting: CEGS meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-10-19", "text": "Visiting Speaker: Michael Kertesz, talk: \" Genome-Wide Measurement of RNA Secondary Structure\".", "type": "lab_meeting", "names": ["Michael Kertesz"], "tags": ["guest"]}
+{"date": "2009-10-22", "text": "No lab meeting: PoPTech conference ; SysCODE retreat", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-10-26", "text": "Visiting Speaker: Jesse Shapiro, talk: \"Signatures of selection, sex & sympatric speciation in ocean bacteria.\"", "type": "lab_meeting", "names": ["Jesse Shapiro"], "tags": ["guest"]}
+{"date": "2009-10-27", "text": "Visiting speaker: Ido Bachelet, 10-11.30am, NRB 354, \"Biological engineering of complex glycans at the host/pathogen interface\"", "type": "lab_meeting", "names": ["Ido Bachelet"], "tags": ["guest"]}
+{"date": "2009-10-29", "text": "Visiting Speaker: Mitul Saha, talk: \"My journey from computational robotics to computational biology\".", "type": "lab_meeting", "names": ["Mitul Saha"], "tags": ["guest"]}
+{"date": "2009-11-02", "text": "No lab meeting: Broad Inst 5 th Annual Scientific Retreat; & IGEM Jamboree", "type": "lab_meeting", "names": ["Broad Inst", "Annual Scientific Retreat"], "tags": ["canceled"]}
+{"date": "2009-11-03", "text": "VIREP workshop", "type": "lab_meeting", "names": [], "tags": []}
+{"date": "2009-11-05", "text": "No Lab meeting: CEGS review meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-11-09", "text": "No Lab meeting: Sigma-Aldrich, Inc.", "type": "lab_meeting", "names": ["Inc"], "tags": ["canceled"]}
+{"date": "2009-11-10", "text": "Wyss Biomaterials Evolution meeting, 12pm, HIM 10; Danny Ducat: \u201c engineered channeling of electrons using scaffold proteins\u201d", "type": "lab_meeting", "names": ["Danny Ducat"], "tags": []}
+{"date": "2009-11-12", "text": "Visiting speakers: Adrian Briggs, talk : \"Harnessing the sequencing revolution for ancient DNA\", 12.30-1.30pm", "type": "lab_meeting", "names": [], "tags": ["guest"]}
+{"date": "2009-11-16", "text": "No lab meeting: HNDS 2009 Annual Symposium", "type": "lab_meeting", "names": ["Annual Symposium"], "tags": ["canceled"]}
+{"date": "2009-11-19", "text": "No lab meeting: Personalized Medicine Conference", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-11-23", "text": "No lab meeting: Wyss Institute staff retreat", "type": "lab_meeting", "names": ["Wyss Institute"], "tags": ["canceled"]}
+{"date": "2009-11-24", "text": "Lab meeting: Luhan Yang: \"Engineer of sequence specific deaminase \" , 12.30-1.45pm, NRB 350", "type": "lab_meeting", "names": ["Luhan Yang"], "tags": []}
+{"date": "2009-11-26", "text": "No lab meeting - Thanksgiving", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-11-30", "text": "George & Church lab: \u201cBrainstorming and the Center planning session: CEGS-09 and the CEGS-03 supplement\u201d", "type": "lab_meeting", "names": ["George", "Church"], "tags": []}
+{"date": "2009-12-07", "text": "Francois Vigneault: \u201c Vaccination VDJ- ome - part 1\u201d & Uri Laserson: \u201cVaccination VDJ- ome - part 2\u201d", "type": "lab_meeting", "names": ["Francois Vigneault", "Uri Laserson"], "tags": []}
+{"date": "2009-12-10", "text": "Visiting speaker: Julia Oh, CV , talk: \u201c A universal TagModule collection for parallel genetic analysis of", "type": "lab_meeting", "names": ["Julia Oh"], "tags": ["guest"]}
+{"date": "2009-12-14", "text": "Visiting speaker: Xiaofeng Xin; CV , talk: \u201c Shifted Transversal Design pooling & mapping SH3 domain interactomes \"", "type": "lab_meeting", "names": ["Xiaofeng Xin", "Shifted Transversal"], "tags": ["guest"]}
+{"date": "2009-12-17", "text": "Jay Lee : \u201cReading and tuning human regulatory codes using in situ sequencing and photo- activatable gene circuits\u201d", "type": "lab_meeting", "names": ["Jay Lee"], "tags": []}
+{"date": "2009-12-21", "text": "Jong Kim: \"Active retrotransposons in the human genome\"", "type": "lab_meeting", "names": ["Jong Kim"], "tags": []}
+{"date": "2009-12-24", "text": "No Lab meeting - Merry Christmas", "type": "lab_meeting", "names": ["Merry Christmas"], "tags": ["canceled"]}
+{"date": "2009-12-28", "text": "No lab meeting", "type": "lab_meeting", "names": [], "tags": ["canceled"]}
+{"date": "2009-12-31", "text": "No lab meeting - Happy New Year", "type": "lab_meeting", "names": ["Happy New Year"], "tags": ["canceled"]}
